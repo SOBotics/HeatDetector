@@ -1,0 +1,13 @@
+(?i)(?<!flask\-)\bwtf\b
+(?i)\bshit
+(?i)\bfools?\b
+(?i)\bcrap\b
+(?i)\ba\schild\b
+(?i)\bjunior\b
+(?i)\bmonkey\b
+(?i)\bsarcasm\b
+(?i)\bsilly\b
+(?i)gibberish
+(?i)\bignorant\b
+(?i)\bf([\Wkcuf]*)ck(s|ers?|ed)?
+

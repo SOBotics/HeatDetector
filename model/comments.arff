@@ -1,0 +1,2006 @@
+@relation weka_SO_comments_model
+
+@attribute text string
+@attribute @@class@@ {good,bad}
+
+@data
+'boy am i stupid. i mean, wow, that was a major oversight. let\'s blame it on monday.',good
+'as usual, you\'re as useful as hell. you won\'t believe how much i love your answers.',good
+'thanks aaron, the way you put it was super easy to understand. haters gonna hate',good
+'dangerous, you don\'t know it is ..',good
+'you can\'t disable it. people can get to your source at any time, whatever you do. don\'t waste your time.',good
+'i think you\'re one of those people who read code as you were reading your native language. very talented coder, stars!',good
+'i\'m pretty sure the sun doesn\'t really talk about anything, let alone thread states.',good
+'you\'re too kind, i enjoy helping others, and answering these questions keeps my skills sharp. bring \'em on.',good
+'i am just a beginner trying my hand at vba scripting, i don\'t really understand you here, sorry',good
+'and chepner. you guys are scary good at bash.',good
+'still a duplicate even if you don\'t like the answers. you can give a better answer on the duplicate question if you like.',good
+'does anybody know the answer to my nd question? i dont think its',good
+'im still being shut out by the twitter api due to their limitations. sounds like you\'re not supposed to be doing this.',good
+'i don\'t why people are not give reply to my question',good
+'wow, you guys are so awesome. i really want to take my skill set to the next level and without these resources i would be totally lost if folks like you didn\'t answer the call.',good
+'xp home edition sp',good
+'white space should be ignored.',good
+'are you guys still letting people join the r chatroom?',good
+'good effort. the more time i spend with git, the more i like my dog. -',good
+'really? lol, you are killing me.',good
+'nothing. google bought firebase and renamed gcm to fcm. a long time ago gcm was called cdm',good
+'holly crap.',good
+'ahead of you?',good
+'hi your not just helping me, but also all others that will see this question through google. thanks that you take your time to help others.',good
+'try to kill activity like getactivity.finish',good
+'more information, suddenly my ad placements have get back to enabled for testing only . what the hell is doing facebook?',good
+'oh smart smart all i really need is the atmidnight',good
+'aw crap. you\'re right.',good
+'no no no no no matlabic please. hell no.',good
+'are you sure you don\'t have some implicit hanging around in the repl scope? i don\'t get the diverging implicit error.',good
+'wow i feel like a dumbass. thanks for the find.',good
+'important restart solr. restart solr. restart solr. many guides don\'t tell you that and i spent hours like an idiot editing config files for nothing.',good
+'i was a moron and failed to proofread my alteration of the query from so\'s environment. see my update.',good
+'no problem .. btw the callback hell is truly a hell',good
+'bro let\'s say im getting nb of males and females from db and im drawing it.',good
+'you can\'t reuse it if you either shut it down or close it. you have to create a new one.',good
+'damn i dont even know what i dont know. please dont downvote me to hell p',good
+'a downvote because you dislike rectangular selection? you gotta be kidding me. shakes head',good
+'man, someone is on a downvote spree this morning p',good
+'i\'m voting to close this question as off-topic because it\'s not a programming question.',good
+'i had all these crazy ideas about prefetchrelated and selectrelated. thought it was so hard.',good
+'i\'ve heard you can.',good
+'patience my friend, i always do',good
+'hahahaha. wait is too bad thing',good
+'that\'s like saying they should meet at mcdonalds, but sure',good
+'oh jeez. can\'t believe i didn\'t see that. i\'ll go sit in the corner now',good
+'no problem man, happy to hear that i\'ve helped you!',good
+'you\'re right nice !',good
+'i dont believe i can download such things on a school computer',good
+'could someone say why i got down voted, constructive critic is good',good
+'who among us didn\'t make a noob mistake in our lives?',good
+'thanks! i didn\'t pause before programming to realize i was needing the cartesian product, i shall hang my head in shame lol!',good
+'sorry what do u mean',good
+'thank u .',good
+'i want script secure script to uploads my files with data base',good
+'even in the last few weeks, i found they are updating their poor documents after the revolution happened on apis',good
+'i have tried these, they don\'t scroll in one-go. i mean they can stop in the middle',good
+'oh my god! i didn\'t notice that, i guest that maybe i didn\'t focus enough. so funny! i thought that there must be something bigger.',good
+'or, we could just throw in the towel.',good
+'thats what he wants p',good
+'means like tabs fragments but i am making hotel app just like roomstonite',good
+'all right sir thank u',good
+'my fault. it\'s too early. i\'ll delete my comment.',good
+'you are too much awesome.',good
+'why you dont want to go with picasso?',good
+'may i know why it is down voted.?',good
+'do you have any integration recommendation on how to pull star rating from app store and googleplay?',good
+'thank you, i hate it when it happens',good
+'can u tell me how to do that',good
+'thats too bad!',good
+'excellent! i always forget about quantifiers.',good
+'you guy rock more than a little! effectively, that was the problem and that was something i didn\'t know. i will go to bed tonight less ignorant! thanks again!.',good
+'why are you people giving me -s?',good
+'wow pro well done',good
+'im on mobile now, i ll explain in a while..',good
+'github is you friend. and look for projects called floatingactionbutton.',good
+'same words as u said before last two days. anyhow, i am waiting.',good
+'no mate, i was busy from last days.',good
+'oh sorry just a moment i think i know why you dont .',good
+'my pleasure, have fun',good
+'np, i mean you are giving attention with me.that\'s why i\'m saying like that.',good
+'can i manage these sockets with my databse?',good
+'done all of these',good
+'i used what u said simply just wasn\'t that what you advised me?',good
+'why the down vote? i always enjoy joe blow\'s colorful answers with unity life lesson. i have certainly learnt a lot from him.',good
+'google is your friend',good
+'when all of the higher priorities have been addressed. sometimes that it is a couple of days. sometimes it is a couple of months - sometimes the lower priority projects become burning priorities. sometimes all of the higher priority projects are delaye.',good
+'all i did was the usual uninstall. i\'ll try that when i get home.',good
+'oh im not too sure about that sorry',good
+'okay. what you need is to employ a team of a few dozen people to watch every live football match probably several times and comprehensively obtain these statistics on each player.',good
+'- yep. i am so stupid d',good
+'even if .floor is . why isnt the first term showing? thats the th spot',good
+'all of the major css frameworks are modular these days. getbootstrap.comcustomize lets you pull out just the grid system easily, which winds up about kb minified and gzipped.',good
+'not at all , jsf is tricky for first time , but by the time she will teach you to do magic',good
+'is the image already black and white?',good
+'well that escalated quickly, we just have to get along guys, and enjoy life',good
+'hope your day gets better man..',good
+'i cant yet. my account is to new. sry',good
+'oh right, i thought he was just asking what a lambda is. whatever.',good
+'ohh great finnaly i got it thank you so much for u r support',good
+'penguin.square.ch here you go thats what i got so far',good
+'ok i will put his up',good
+'is almost always ugly anyway',good
+'now weird thing happens. screencast.comtffjbzq i went from home to about and then contact. and it is listing all headings down..',good
+'also i am a he',good
+'i\'m gonna try it in couple of minutes,',good
+'you\'re right my friend. my bad',good
+'hi i try it this but i missid up many times, i cant fix it textuploader.comny',good
+'if they can wait for the night, why can\'t they wait until the park opens?',good
+'im new to programing im only',good
+'google is your friend',good
+'never knew about that site \'till now. thanks!',good
+'. didn\'t they stop their services?',good
+'i am happy',good
+'you certainly rock man, any paypal to buy you a beer?',good
+'oh my god, i just spent hours of my life with a stupid syntax error. thank you.',good
+'oh ok nice thanks d .. like i already said .. im a completely noob in this whole programmingwebdesigning world. you saved my day.',good
+'im sorry, i never really knew what super was for. reading and tesing this out. thanks!',good
+'you are a fucking genius, and i\'m a retard xd thank you so much man xd',good
+'why? you said you dont want them pushing',good
+'hey yeah, it\'s been a while. hope all\'s good with you.',good
+'i really hate to say this but this is already that test project you are talking about. now i go and pull my hair out. thanks.',good
+'can he do things like that even with ssl?',good
+'yeah i think so too. for now i am gonna drop this idea.',good
+'thanks! i love it',good
+'oh, i\'m sure you\'re a nice person person and nobody would get fired over one . right?.. i get your point and i\'d say that\'s what comments are for.',good
+yeah,good
+'you da man -',good
+'this guy is genius',good
+'haha megan, i hope it\'s free i may just take you up on that! lol',good
+'oh, i know.just sayin\'. and if fredd doesn\'t cover you, you can always be my wingman.',good
+'thank you. i\'m an idiot.',good
+'that was it. i\'m an idiot.',good
+'no, they all said nothing was set up were empty.',good
+'how do you know he never committed his work? hold off on the burial until you know the patient is dead.',good
+'i guess that didnt work? lol',good
+'white yeah, i see what i did now. it\'s been a long day and i feel stupid for missing the initialization to being the issue.',good
+'gonna try it tommorrow, thx',good
+'that\'s awesome, i will play with it and let you know!',good
+'oh wow is there a trade-off between being immutable and being fast? elm-lang.orgblogannounce.. elm is very much a work in progress, i still like it very much',good
+'can you see your dag when u make a ?',good
+'sorry n. - no love for the get lol! - thanks again but don\'t know what to do',good
+'aha of cause.thanks.i was so lame',good
+'it is like applying watch over',good
+'julian day is day of year and goes from to',good
+'god bless you man!',good
+'he called .',good
+'arif nouman khan no they are not present there, that is why im really worried, all my hardwork is gone.',good
+'still no need of switch, it depends on her how she is going to handle that.',good
+'happy coding',good
+'you too gayathri d hi from malaysia hehe',good
+'can u tell me in brief',good
+'why don\'t you just try it? turn it on for a few minutes and have a look at your new relic graphs.',good
+'detectconditionnetfxfullversionquot..quot and not versionnt or netfxxfullversionquot..quot',good
+'he said he ran makemigrations at step',good
+'i wanna know why is nan popping out ?',good
+'i think david is talking about the call in , that\'s the problematic one.',good
+'argh , silly me',good
+'he he..',good
+'i dont want to expose my business logic. even to dba.',good
+'which validation you are talking about?',good
+'got it man thank you. i would vote you up but i can\'t yet.',good
+'my look like this',good
+'give me a minute,i\'ll test it and let u know',good
+'all is good, happy it helped.',good
+'all i mean is integrating their apis for these stuffs',good
+'can u pls explain?',good
+'this guy deserve a cookie',good
+'u there ?..',good
+'alright man i get you',good
+'but he is already saying .',good
+'scipts? really? i\'m such a dumbass lol. thanks for your help sir!',good
+'this-db-queryselect from . this-db-db-dbprefix\'bridegroomregister\' . where gender male and age \'.age.\' and cast \'.cast.\'',good
+'still helping me alot',good
+'even d',good
+'just someone stole it from me, need to disconnect him in that way',good
+'no, no i expicity no not want to mock. d',good
+'because some times i take my brain out and play with it and forget to put i back. o.o . i combined them and hit the delete button here.',good
+never,good
+'can u please tell me how can i achive this??',good
+'let\'s say bogart dog.new\'the book\', \'the road not taken\'',good
+'congrats on k',good
+'he already knows that doesn\'t throw a warning, he\'s asking why only one asterisk does.',good
+'like this cat a a a b b b c c c d d d',good
+'happy to hear that',good
+'d sorry. typing latex is so boring that your brain kinda just switches off mid-way and blindly follows what you\'ve written on the piece of scrap paper in front of you',good
+'wire a mobile phone to your webservice and send the sms.',good
+'dude! this .tolist of yours saved me a day!',good
+'glad to help u',good
+'change and watchlist.watchzip to and watchlist.watchzip in ?',good
+'you are the man .. thank u',good
+'hi all stack overflow is here',good
+'i made a missprint, sory',good
+'because it is not json',good
+'google is your friend.',good
+'i\'m an idiot. it\'s under the advanced action script . settings available by clicking on the wrench icon under publish settings. i\'ll update this with an answer at some point, unless you want to and you want some free rep points.',good
+'i am new to jvm, why cms will stop the world while young gc?',good
+'this was driving me mad, thanks!',good
+'they are non-standard if you\'re talking about the a promise spec',good
+'this guys is a genius . don\'t miss joaquin phoenix either !',good
+'lol.. you beat me to it',good
+'hahahaha..done.thanks man..i feel stupid you know',good
+'good catch. that\'s why i hate the rc notation d',good
+'i must be having an idiot moment over here, but i can\'t seem to find anything helpful i think as to how i could fill a form with session data that i\'ve saved on the last failed submission.',good
+'it works oh my goodness. thank you so so much!! i wish i could give you a trillion thumbs up. you\'re amazing thank you. i learned some js and how to scroll today! thank you!',good
+'yeah i need to get some solid understanding about these',good
+'done. may python gods be with you my friend.',good
+'this has been eating my head all day.. i wish i could give more upvotes',good
+'no i have not, ill give that a go.',good
+'are you thinking setcurrentvalue? omg i should\'ve kept my mouth shut, this stuff is a nightmare.',good
+'- the problem with that is, it does not show the result in storyboard, only at run time. it\'s one of apple\'s biggest fuck-ups. the fact that uitextview has margins is stupidity on an epic scale.',good
+'down voted why?',good
+'c lets you shot yourself in the foot. c lets you blow your whole leg off',good
+'cant believe i saw that \'string args\' so many times after a whole year and it never occured to me wtf it was untill now ! haha',good
+'np happy to help you',good
+'thank you! i confess i am an idiot!',good
+'yes have you ever made a game on appstore?',good
+'i didn\'t get you if u plus it, why will it minus bro?',good
+'we are still waiting',good
+'ai, me stupid',good
+'i was just wandering why he didn\'t',good
+'he specifically said he wants to avoid this.',good
+'hot hell your braces and alignment are totally weird',good
+'i know you told me about those, but i don\'t understand what they\'re doing. i went to take a closer look and still nothing.',good
+'you are a genius man.',good
+'typing a bunch in',good
+'nope, you are right, i\'m an idiot. i think i confused myself trying to think this through. if you edit your answer maybe add a quick demo with jsfiddle or something, i\'d be happy to reverse my vote. there\'s an example in the link that the o.',good
+'i don\'t know what you are talking about i\'m new to this',good
+'can i just say your awesome for helping me out here!',good
+'arr, you beat me to it, i was struggling with the debugger for a while',good
+'people don\'t like simple questions because they think why didn\'t he do his own research first?',good
+'you\'re right, that was stupid of me.',good
+'those are the same mistakes i made in the beginning . almost wripping all my hair off after hours not seeing why stuff like that happened . have hair left though slightly more gray today',good
+'like for peptide aaretn score will be ...... a a r e t n',good
+'what\'s phyton? never heard of it',good
+'that\'s ok, you guys had me questioning myself for a while there!',good
+'oh yeah my fault thankyou.',good
+'solved! thanks man i got the true path for the folder and its worked like a dream!! you my friend are a life saver!',good
+'yeah i\'m sure i wanna do this',good
+'they are all',good
+'i think that i have made everything by rules. may be i not good at english.',good
+'can someone say me what have i made not so?',good
+'hrs ago i was trying to do the same thing, but no luck. just going sleep now, i didn\'t think it\'s gonna be this hard or i\'m just tired to figure it out.',good
+'solved! thanks man i got the true path for the folder and its worked like a dream!! you my friend are a life saver! - you\'re most welcome dave.',good
+'i think you\'ve got me mixed up with someone else',good
+'i wanna make imageview as a plane and textview on it.it\'s like a chess game mr.',good
+'thats what i was thinking, just got my math a little bit wrong, thx!',good
+'you got my problem right ! i\'ll try this and let u know!',good
+'can u explain me what is the meaning of ?',good
+'how should i get my keystore back from my old apk on playstore?',good
+'wow i didnt notice it, good catch',good
+'nice ans .thank u so much',good
+'i\'d like to have more parallel workertthreads and everyone should have his own timerelapsed event.',good
+'well i dont intend to insult anyone specially thoese who are trying to help..',good
+'it woud be a filter of date which i will give to user to select for demo purpose i have put month manually',good
+'your rocks ! thumbs up for you',good
+'oh gosh thats such a stupid mistake rip..',good
+'yeah still no luck tho',good
+'can you let me know why you unmarked me?',good
+'bro i have edited cn u see that nd tel me',good
+'wow. this is just awesome! you made my day!',good
+'yeah i know the number of sdlrect, for that u make rectssize.',good
+'can you tell me why?',good
+'u there?',good
+'may you help me , bro !',good
+'dropbox.comshrveozfjiyylkwaaduxlrhtuvudfbtyhzgua?dl here you go',good
+'oh man! you nailed it. i have been thinking around for hours and you did it just like that. thanks.',good
+'i didn\'t understand it at all. even my friends didn\'t.',good
+'wats da doubt.didnt get you',good
+'my temp mail id inbox',good
+'are you talking about the annotations?',good
+'have u succedded?',good
+'well guys think of the dailyhours as a total of units like a car\'s km',good
+'many thanks to everyone who contributed to this, i was totally over thinking it !',good
+'this is like i have my spec on my head and i am searching all over the world.',good
+'that\'s why i\'m still a student and you\'re a master. -',good
+'the asterisks is being interpreted literally',good
+'wait. u mean change y to x?',good
+'jay-sun, mother of owen, father of none.',good
+'nvm. im an idiot. i piped it into gm and forgot to use inputobject. it is a string array. i have a better solution though than what was suggested here.',good
+'saved my life d',good
+'are you getting like me?',good
+'you\'re talking about animations?',good
+'at least i\'m helping people',good
+'i beat by seconds!',good
+'too cool! you rock soda!',good
+'im really sorry but right now i cant give my site address.',good
+'ah damn but it still runs the test. that is lame',good
+'may go for a toss when day name is more than characters',good
+'where u are calling ?',good
+'i love stack overflow',good
+'i realize now that infinidb has gone out of business!',good
+'let me know how fast it is for your k lines!',good
+'actually i am a big fan of demotivators . loaded my office hallways up with them. but seriously, if you need help, chat away in',good
+'why do you hate indentation?',good
+'i was going to till somebody beat me to it.',good
+'ok, im an idiot, i did n instead of \'n\'.',good
+'do u mean to freeze the st column and make the follow when ur scrolling?',good
+'why is new value for ? doesn\'t follow your rule literally.',good
+'so we\'re saying here, right?',good
+'i\'m happy i could be of assistance. happy coding',good
+'have fun - hope she appreciates the effort',good
+'ok that\'s what i think too. shall we just clean up these comments?',good
+'on a side note, it upsets me that it has taken me days of banging my head against a wall to figure this out.',good
+'just curious, have you considered nolock, some hate it, others swear by it.',good
+'i know, i know. but for now i just wanna deal with these problems. i\'m a newbie.',good
+'oh they\'re coming out as nonetype.',good
+'i don\'t follow what you are saying',good
+'oops, i have been away from php for a little while lol',good
+'am i the only idiot that can\'t figure out where the download links are on the maven repository artifact pages?',good
+'yeah fair enough, just re-iterating what he has said to other qs. i\'m gonna give a few of these answers a go and see how i get on. thanks for taking the time to pitch onetwo in',good
+'this held me up for like days',good
+'do you have a music player app?',good
+'here you go codepen.ioanonpennajqxa',good
+'i succeeded. i just crawled some famous twitter accounts and their followers.',good
+'select u.firstname,u.middlename,u.lastname from users u inner join location l on l.userid u.userid and u.createtime dateaddd,-,convertdate,getdate and u.createtime convertdate,getdate or u.updatetime',good
+'saved my life bro',good
+'thnx all friend now i understand what to do.thnx again?',good
+'give me the real url so that we can help u',good
+'its not playing the video at all even at good bandwidth',good
+'worked for me. you made my day',good
+'it tooks me hours too',good
+'if chkadministrator.checked true hasvaluetxtlusername.text true hasvaluetxtlpassword.text true try isadmin true adminlogindb.',good
+'can u explain me clearly how to get the group name',good
+'stringhalanki sur ke jivan ke baare me kai janshrutiya prachalit hai like this',good
+'only f red, the ather black',good
+'glad it helped. my friend',good
+'can u come to chat room i want to discuss with you',good
+'no prob im here ask to me what do you want',good
+'why are you supporting ios ?',good
+'ya got it thanx',good
+'didn\'t you know that people hate fun on so?',good
+'ywa all thanks to u',good
+'thank you very very and very much!.',good
+'d i know those erros can keep you awake for many days',good
+'yeah they are in sf',good
+'playercontroller avplayerviewcontroller allocinit playercontroller.player avplayer playerwithurlvideourl self presentviewcontrollerplayercontroller animatedyes completionnil',good
+'sometimes i take his help and sometimes he takes mine. we both are good friends. this one was our combines effort.',good
+'so many rules',good
+'bro you made my day!!',good
+'damn, i feel stupid right now, thanks for your reply!',good
+'im actually talking about this part',good
+'sorry buddy i forgot to up vote now i have up-voted.but really u saved my day.great work man',good
+'damn feels like a stupid question now',good
+'object reference not set as an reference of an object',good
+'yes this line is giving error',good
+'and d.id is null',good
+'never use gotlostfocus, always enter and leave.',good
+'kiss. was typing this up -- you beat me by seconds.',good
+'lol . i knew i was forgetting something d',good
+'when we are talking about winforms',good
+'lol didnt get that',good
+'yeah i got that now',good
+'moving on - i hope all is well with you my friend.',good
+'chehh, can you expand on that a little i\'m not too experienced.',good
+'excellent. gonna learn myself some dplyr and tidyr now',good
+'but he wants the multiplication.',good
+'thanks, paulw you cool man',good
+'thx for answering. sadly i am too much of a oop-idiot to understand where these referneces are pointing to.',good
+'ya thats it. y',good
+'all allowing that why am worried',good
+'youre right, thx alot',good
+'im referencing reference includenewtonsoft.json, version..., cultureneutral, publickeytokenadfebaaeed, processorarchitecturemsil hintpath....packagesnewtonsoft.json...libportable-netslwp.',good
+'ok, wait a little',good
+'yeah that too.',good
+'its a bitwise and',good
+'actually i feel stupid now, i don\'t know why i didn\'t think of that',good
+'transactionwithblock is literally just a shortcut for beginwritetransaction commitwritetransaction',good
+'a clever hack, but emoji don\'t work as they just become filled in by the shadow ??',good
+'that worked wonderfully. thank you. you saved me a lot of time and provided some good information for me to investigate and experiment with file, matchcollection, etc..',good
+'yes but when i have my button listening in my main activity and i give him the variable i how do my custom adapter knows that i the the value to have in getcount ?',good
+'i tried to dynamically switch the x,y coordinates.for example if i press the forward button i decrement the y value and then draw path on the canvas from initial value to the updated value.but in doing this after taking the left rotation i forward butt.',good
+'hm i\'m an idiot. i was trying to do instead of . just switched from windows to mac . thank you',good
+'scentist ah? enna da solre?',good
+'so u wanted me to call the setresult after calling startactivityforresultintent, this?',good
+'as suggested, word detection can be extremely difficult often requiring machine learning, and ai algorithms and introduce a whole wealth of natural language ambiguities, your data source should be fixed.',good
+'see stackoverflow.comquestions',good
+'ok daniel, how i don\'t know where are you, but if you want i can buy you a ticket to get here and give me some punches on my empty head. i think it was all about leading slash.',good
+'oh yeh that was pretty stupid of me. been a long day but thanks',good
+'well, you don\'t have to use a mocking framework. you can always create mock classes yourself! and honestly if your hands are really handcuffed like this and you are not allowed to do the things that make sense you better turn back to your manager .',good
+'then you can\'t read from it. as a workaround, and depending on how much work you want to put in, and how hacky you want the solution to be, you could look in to writing a test application using teststack from white',good
+'let\'s hope you\'re right ??',good
+'hopefully helped op, got rep, today was a good day',good
+'looks like he did, but i don\'t think thats the cause of his error.? is it?',good
+'oh yeah.. i said that, haven\'t i?. - lol',good
+'im sorry im unclear abt ur question what ur asking with me',good
+'when you say parameter name are you talking about ?',good
+'when pushing they don\'t change to automagically anymore at least for me they don\'t.',good
+'bryan so how can i do full back up as you said?',good
+'stupid me and genius you',good
+'i\'d go a re-factor it all based on your suggestions, but i have retired half a year ago. i\'ll be always open to learning after writing such bad code for years.',good
+'did my answer assist at at? it takes time to actually write them up. feedback is appreciated that is our pay.',good
+'have you seen the uptime of my box yet? but seriously, there is no guarantee that nanotime starts at so it wraps every years, but potentially much earlier than years after booting up.',good
+'whether you know it or not, you entered more than one character. count how many times you hit a key on your keyboard don\'t leave anything out.',good
+'stationplaylist.comairtel.mpg white',good
+'questions asking us to recommend or find a book, tool, software library, tutorial or other off-site resource are off-topic for stack overflow as they tend to attract opinionated answers and spam. instead, describe the problem and what has been done so far to solve it.',good
+'this isn\'t a tutorial or how to site. read the documentation for their api\'s',good
+'when you get help with your problem, don\'t just leave or soon people will stop helping you. you haven\'t selected an answer for any of the questions you\'ve posted, including this one. is my reply not helpful?',good
+'no as you said that already answered here. then according to rule is you must share answer as comment. rather than giving as separate answer. and if you don\'t have enough rep. then please wait.',good
+'when the buttons appear the spam a chat button is almost at the top and raise your kappa is at the bottom. it seems like the length of the text is the decider but i want to change that',good
+'language english, spanish , languagechoice english, english must be',good
+'wow really?, i moderator of a programming community who has never heard of classic asp.oh well.',good
+'yeah, put up a big fat warning',good
+'billions of documents are printed every week, millions of printers run out of paper, without ever needing the help of system.printing. you\'ll learn to live without it.',good
+'global variables - disgusting. why do you people prefer some terrible code when you can have a concise and readable one',good
+'forcing a gc is a bad idea! you need to stop the memory leak not try and cover it up.',good
+'please don\'t use the old phpexcel.codeplex.com site anymore we\'ve been trying to get rid of it for ages. phpexcel moved from codeplex to github.comphpofficephpexcel four years ago',good
+'you need to move the rule that forces https above your normal rules.',good
+'mother teresa is that you? great to know that you\'ve taken up coding!',good
+'okay, and where did you get stuck when you attempted to write this yourself? what part, or parts, don\'t you understand or struggle with?',good
+'guys!! this is a genuine question. stop downvoting the op.',good
+'yes, get work successfully. error message tells about error while handling another error. so, verbfilter giving two errors. like i attached verbfilter twice. but i don\'t. wtf.',good
+'never mind, i\'m rather addicted to rep points collection and developers have to stick together! btw i\'ll delete my unrelated comments after some minutes.',good
+'a picture is worth a thousand words',good
+'who did down vote my answer?tell me the reason.',good
+'down vote for syntactical and grammar mistake !! seriously!!',good
+'i might be completely wrong, but i wouldnt expect that optimizations have to restrict to a compile as-if. as i understand, the as-if rule does not include things that are undefinedunspecified anyhow.',good
+'i\'m in a hostel without a laptop and a computer with java compiler and i\'m learning java out of curiostity out from a book',good
+'problem is i do. i had a lot of problems with because nothing from there was seen by linuxdax.h for example, had to spend extra time to make it stop spamming errors. although maybe i\'m not including somewhere else. i\'ve lost clue at this point probably with parts of my sanity.',good
+'i couldn\'t find anyone looking for sending an email without password authentication -- that is because mail servers require passwords to be able to send email, at least from arbitrary ip addresses. otherwise, spammers would be very happy.',good
+'just a guess because we don\'t have much information to go off of here but is probably the culprit.',good
+'recommending memmove over rotate doesn\'t seem like such a good idea. maybe complain to your compiler vendor if they don\'t generate good code for rotate?',good
+'i just confused why some of those earlier answers were to monkey patch the global',good
+'can you please delete these comments, its gettin a lil bit spammy, we can discuss in a chatroom if you want. chat.stackoverflow.comroomsmatplotlib-discussion',good
+'i make a fool out of myself all the time.',good
+'anyway, i gotta go to bed. maybe next time you might reward people with rep if they help you for hours.',good
+'first you have to get to know the owincontext.request.query well enough to find something that makes it feel inadequate. i googled owincontex.request.query flaws but didn\'t find anything good to work with. so in that case we can just resort to basic name-calling and hope that it\'s sensitive. you stupid, stupid owincontext.request.query! point at it and laugh. but when it starts to cry your conscience will bother you, sending you into a spiral of self-hatred and futile attempts to restore self-esteem through even more witless mockery.',good
+'there isn\'t such a requirement, but people are also free to vote as they like. low quality answers to duplicate questions often attract downvotes. sometimes even delete votes.',good
+'outbound smtp is pretty much universally blocked from home consumer netblocks as an anti-spam measure. you basically can\'t run a mail server on a home adsl any longer becaue s\'ammers poisoned that well too.',good
+'here\'s a blog post i wrote just a week ago on this exact subject. how convenient!',good
+'nothing to do with php. it just walks your envelope down to the street corner and tosses it into the mailbox smtp server. if hotmail doesn\'t get the mail, that\'s not php\'s problem. it\'s the postal service\'s e.g. spam folderfilters',good
+'very useful and convenient things. you can always ask about him in chat or in the channel of slack he is more active',good
+'i got rid of the japanese characters with the help of google translate to avoid spam errors',good
+'you really need to properly format your code. it\'s near impossible to read.',good
+'than you rojo you are awesome, amazing answer!',good
+'your lapply has looped over files, you need to ass a second loop over sheets to get what you want.',good
+'the filter is just a doctrine query so it has no real connection to the flushing process. a far easier way to hard delete would be to to run the the twice. the first flush would set the to now. the second would recognise that the has been set previously and will ignore actually delete - ass you can see here github.comatlanticdoctrineextensionsblobmasterlibgedmo.',good
+'i don\'t have time to go through all of that and i doubt ill learn it from there all i want is for someone to give me a clue and ill do the rest myself',good
+'the code they have in their tutorial is what i have in mine in swift and that works. there is more involved but that doesn\'t mean that their work is wrong. maybe i should\'ve clarified that. right now i\'m using',good
+'off topic but i just wanted to say that your project idea is ingenious. keep going!',good
+'if you got time please contact me at chat.stackexchange.com,and if you are up there,please leave me know you are there by leaving a comment here thanks',good
+'i think you can\'t except if your notification is a silent notification. but if you dont have access to server-side code, you just can\'t to id',good
+'i just don\'t get it.. does downvoting provde points to voters, it is necessary that people who downvote questions at least add a comment as to their reason to downvote',good
+'cool bro. u r intellectual',good
+'you have a problem with your specifications of the problem. what defines what matchwholewords means? in this fiddle, you mean you want q to be replaced, but in q., the . should be a word boundary, b',good
+'surely even compilers for low-levelembedded systems are smart enough to optimize a division by a power of two to a bit shift? no one writes because they actually want a divide instruction, but because it is clearer to a human being than but equivalent to a compiler.',good
+'you can show api documentation, i fink you need one array not twoo .',good
+'why the hell would you tag people you only just found via search? now that sounds like the very definition of tag spam.',good
+'i\'m voting to close this question as off-topic because it looks like a spam precursor post it\'s an exact duplicate of this answer stackoverflow.coma',good
+'seriously.. why the downvote? if a newbie can\'t ask questions at a community, what does the community exist for?',good
+'why down vote here? please leave your comment.',good
+'this looks like a thedailywtf.com-type approach for downloading a document via http. different operating systems use different libraries for implementing http. since you did not indicate which operating system you are using, no answer is possible. but one can always create a socket, connect, send an http request, and retrieve the http response manually. http is very simple.',good
+'-- don\'t call me a jerk. read the rules. stackoverflow.comhelpon-topic you wouldn\'t expect to be able to ask a question about how to plug in your computer here, would you? off topi',good
+'in fairness, hes not being a jerk. this site does define very clearly what questions are for here, and what arent. the reality is the question close reasons exactly list the text he picked.. he wasnt being a jerk',good
+'no i didn\'t read a book and i didn\'t found a tutorial on how to read of a pastebin post in c.',good
+'did you even try to do anything yourself or did you just dump your assignment here?',good
+'maybe you should tell us what your program actually does. because if it handles sensitive information, this ain\'t a good idea.',good
+'down voted because my year old answer is now out of date?',good
+'possible duplicate of generate a dynamic form using flask-wtf and sqlalchemy',good
+'footer for that website is content copyrighted. reproduction denied.. maybe they don\'t want you copying their stuff and have limited content access?',good
+'don\'t worry, no insult taken. it\'s just that at some days, i would at least like to try to be a rockstar -',good
+'as far as i know wtforms uses classattributes to determine which fields to show. in the answer they are creating a class at runtime with the appropriate class attributes to show what they want. that should also be possible in your case. but actu',good
+'my boss asks me to do stupid stuff all the time. sometimes, i can talk him off the ledge other times, i just have to swallow my pride and do it his way - it\'s his company, not mine. if you\'re not in the same boat, count your blessings',good
+'downvotes get removed when the question gets deleted so all the op has to do is delete it. also downvotes are entirely appropriate since this question has nothing to do with android and also has nothing to do with programming',good
+'pay some symfony guy here to get you on track. note, i am not a symfony guy.',good
+'sorry, i mixed you up with abishek below when i wrote the comments and just realised that and deleted the comments before you wrote back - i actually wrote my answer hours ago, you wrote yours hours ago. mine was here first so i literall',good
+'downvoters please atleast care to comment reason for downvoting',good
+'thanks to you also. well spotted. what an idiot i am.',good
+'i kind of understand what you mean but im sorry if this is a dumb question,where is contentpane.addnew jscrollpanetable supposed to be placed?',good
+'title and content contradicts. are you trying to get your followers or the people you follow?',good
+'no worries, i\'m off out now. have fun coding!',good
+'sounds like a place i once knew. i presume that the other approach find an old pc that someone is throwing out, install linux yourself is also rendered impossible by the network and firewall people or regulations?',good
+'downvoted without even leaving a comment?',good
+'if you don\'t post some code, no answer is possible. you\'re doing something wrong, but without some code nobody can really tell you what.',good
+'well, the thing is that the online example has managed to idiot-proof itself, whereas when i try the same example on my local machine, it isn\'t idiot-proof.',good
+'i thought that here will be some smart man, who can help me solve this task. you have to know that i made researches before i came here, but i found nothing useful. i didnt meant to bother anyone or insult so rules. if no one can help or understand the task, then i think this doesn\'t have any solution.',good
+'damn wordpress always p\'s all over my stuff!',good
+'holy cow, all i did was shut down vs and then restart comp, came back and it hit the breakpoint.. such a waste of time when it was going where we expected lol thanks for the help anyways man. much appreciated.',good
+'ha! that\'s always my favorite solution. must have been some cached assembly or something. irritates me to no end - every now and then asp.net screws me over - i can\'t count how many hours i\'ve wasted over the years chasing ghosts.',good
+'what algorithm are you using to classify the spam? what language are you using to build the model? if you are asking generically, then your question is not a programming question and would be better posted on cross validated',good
+'thanks, yes i just noticed that it can be spammed and be a problem. i\'ll createwallet at register instead. i have a function that deletes the inactive users every certain time which i\'ll use to delete inactive user\'s wallets as well. still it kinda confuses me how just for clicking once it does that.',good
+'please read through the help center. all of this is explained. when a question is put on hold and edited, it was put in a queue where people can vote to reopen it. you\'re being impatient.',good
+'actually someone is downvoting all of my posts',good
+'any reason for the downvote?',good
+'btw you don\'t need all those escapes',good
+'i was wasting a lot of time trying to find whats wrong with my pojos. this finally was the biggest help',good
+'it\'s impossible to say a-priori because even if we just go ahead and assume that the second way results in a conditional move rather than a branch, that is neither strictly worse nor strictly better than a branch. it depends. but we can\'t even assume that, so we know even less than that.',good
+'who downvoted the answer given by paul smith aka',good
+'if those who are downvoting my question could tell me why they are doing it i\'d gladly use the information to improve my question so i don\'t get banned',good
+'and exactly what do you expect us to do? you\'ve provided no details about anything useful how do you communicate with your device? what\'s the communication protocol? what commands does the device expect? blah blah blah blah. we are not here to do your job for you, especially when you can\'t be bothered to even explain what your job is in anything other than top-level managerial terms.',good
+'i agree, at first i liked john p\'s answer, but then reconsidered because i don\'t trust users. they may be smart, but they do really dumb things',good
+'trust me - if upgrading was an option we\'d be very close to the latest, always. but in this company , its like impossible to get a unix admin to do anything for us. this is a javaoracle business and they\'re always on the latest of everything. but if we ask for anything we\'re the red-headed step children.',good
+'well it sounds easier to do this unless you want to spam users in sending them an email for every version and or release to go download it. what would you think?',good
+'be patient, things takes time. you got any way my up vote',good
+'aside might go faster. if you don\'t care about order, might go fastest.',good
+'i\'m not sure old database quite describes a product that came out years ago and hasn\'t even been supported for almost a decade! but how about a manual pivot, something like this stackoverflow.comquestionspivot-using-sql-server-',good
+'why the downvote? comment plz.',good
+'it was a dumb mistake. sorry guys. the guy on the comment below helped me.',good
+'i\'m new to this community but i think it\'s a qa site. i asked you\'re supposed to answer if you want.',good
+'what part of don\'t you understand?',good
+'i assume you mean git branches? at this stage no - everything is sitting in repository. usually a team will fork off the main repo and then merge their changes back in later.',good
+'true. apologies for sounding harsh, i just wanted to point out potential problems with the approach to make sure op is aware. it is up to him to decide what he really wants and sees fitting.',good
+'spamming unrelated language tags is an excellent way to give your question maximum negative attention, in order to get it down-voted by as many people as possible.',good
+'i\'d recommend aaron\'s articles every day - he has a series of articles called bad habits to kick, everyone of them that i\'ve read was great.',good
+'it does? i suppose i\'m a bit too lazy too.',good
+'to add to andy\'s comment - if you don\'t override in a way that\'s consistent with , expect bad things to happen in potentially unexpected places. it\'s always worth making sure that you override them both consistently or don\'t override them at all.',good
+'w o n d e r f u l',good
+'if it helps - just print the output of your script normally and pipe it through the tee command that will fork your script\'s output into multiple out streams.',good
+'the op doesn\'t want closures and you present him, um.disguised closures?',good
+'why do you regard such things as happenstance? if you don\'t like the language dennis ritchie invented, invent something else. don\'t try to name-drop off the language that became popular precisely because it supported the kinds of abilities',good
+'regardless it\'s a dirty hack for such a small issue',good
+'i don\'t even understand what they want to do. respect for understanding the intention.',good
+'don\'t even have enough rep here to up vote!',good
+'i\'m not really sure how to do that so i just looped the hell outta of those things',good
+'i think the downvote is due to having questions rather than one and all being somewhat off topic',good
+'i wonder why someone downvoted the question? any explanation?',good
+'the biggest one is the biggest path. when i start the programjlist, this path\'s appear, and i just want to appear the biggest one, that is cdiretorioantoniodocumentostemp appear on jlist item',good
+'my apologies, i just posted an answer below. sorry for spamming the website with extra comments.',good
+'this is off topic here. you should delete this one and move it to serverfault.com',good
+'i\'m going to say there are not. you\'ve seen some of the brightest folks on stackoverflow.com post answers here, if anyone would know of a c addendum it would be them. as such i don\'t belie',good
+'having to do this is arguably a bug in wtforms, since returning as a string is just very odd indeed.',good
+'i know async methods let you trivialize some parralelizations but you cant just flip a switch and tell the compiler to cut up your work for all the computing cores',good
+'arrays can\'t be copied and will always decay to a pointer.',good
+'maybe my reading skills aren\'t good enough, but i still dont get what and etc. is. can you give a simple example?',good
+'wow thank you i feel stupid now',good
+'ah wow. i literally just realized this is the stupidest mistake ever. i am looping the getcontent program but it includes the library declaration. i just moved the line include\'varwtoolsdomsimplehtmldom.php\' into my primary routine and it all works. thanks for your help. i was way too focused on my primary routine.',good
+'the title asks if promises are sync or async, but the body asks about race condition. promises are async but still unable to race, because of the rest of the answer.',good
+'get rid of as mr. mccrossan suggested, then place right above',good
+'this is really horrible advice in team environments. nobody should ever press the magic reset buttons in xcode.',good
+'reason for the downvote?',good
+'i don\'t see how or where dostuff is every being called here?',good
+'jerk is the rate of change of acceleration over time, just as velocity if the rate of change in position over time, and as acceleration is the rate of change of velocity over time. because you have a maximum acceleration constraint, this implies that the acceleration is changing over time. thus, jerk is how fast it is changing, and a value that you will set i\'d recommend making it specific to different enemies. and as for your acceleration not exceeding a constraint level, i am including that in the answer i am typing right now.',good
+'omg you found my mistake, thanks to you. really stupid but i sit here and wondered since hour xd',good
+'oh right so jerk is a different way of expressing car reaches mph in seconds - but rather than using time, you use a rate. is that right? that could work. i suppose! i\'d have to see it in action. anyway i\'m way overdue for sleep i\'m afraid. looking forward to checking-in in about hours. good luck!',good
+'ok, i am starting to figure out how to control it. you have to use the check boxes. argh. wtf does it let you even edit the code it presents? anywas, thank you for providing a correct answer to my question i still hate computers, though.',good
+'mostly, car reaches mph is super broad, only mentioning a time and final velocity magnitude. for example, lets say that the car\'s acceleration from ms to ms in seconds. how did it do this? at seconds, was its acceleration still and then it jumped to ? jerk describes how it increased or in this case, a constant jerk value will make it so that the acceleration increases linearly with time. likewise, this linear accleration increase implies that the velocity increase will be parabolic, and positional change for the car would vary with time.',good
+'holy crap that was beautiful haha',good
+'sorry, don\'t have any more to offer. i\'ve seen other posts where developers report delays, often when the developer is far from the usa. those seemed to be caused by poor network performance. maybe i don\'t experience problems because i am in california.',good
+'here you go! joshmorony.com',good
+'you must at least tag the code language you\'re using and ask a more detailed question. i know it\'s java but most people don\'t and you should give more details about the technology you\'re using.',good
+'read carefully the answer below, you say you know all that, and you need to create a random matrix, but you don\'t use or any other function for random numbers in your code. don\'t expect others to do your homework if you don\'t try to do it yourself',good
+'looks like this code is not nearly enough to actually investigate your issue. also beware that your formatting has cause the automated systems to consider this spam so you have a second reason to edit.',good
+'i\'m not familiar with fiddle. what am i supposed to be looking in that link?',good
+'semantically speaking a void object is not a function, so we should have a not an error. if using a looser definition, all callable objects should be taken into account, including macros and lambdas. please see the update',good
+'- i think that\'s definitely the path to go down. you can answer your own question if you like to close it off.',good
+'all of this is due to the behavior of the underlying date.parse trying to follow iso . when the date string follows the y-mm-dd format, it\'s assumed to be iso with implicit utc . when the string deviates from the format e.g. mm-dd-y or slash instead of hyphen, it falls back to the looser parser according to rfc which uses local time when the timezone is absent. admittedly, this will all be quite arcane to an average person.',good
+'who said it was darshan who downvoted? please don\'t judge people if you don\'t know. i find darshan\'s question a legitimate one.',good
+'please don\'t tag-spam. this has nothing to do with c or asp.net-mvc.',good
+'use a proper installer, don\'t write your own.',good
+'interesting. i guess it depends on who your students are. my students humanities need to know how to drive the car, not how to take it apart and put it back together.',good
+'michael\'s answer makes full sense to me, so i don\'t understand the someone\'s down-vote. up-voting back on.',good
+'so you think your dropping of requirements will make people send you code? sorry, won\'t happen.',good
+'internet archive to the rescue web.archive.orgweb this is still a lazy answer so i downvoted.',good
+'this is too broad and the question is badly presented. we can\'t help or assist those who make it hard or impossible.',good
+'ping one of us if you get anything. moving on',good
+'you should disclose you have a personal interest in the link mentioned. if you don\'t do that, it fits the criteria for spam.',good
+'every class descended from is destined to be used via interfaces because of the lifetime policy that it implements. if you want a different lifetime policy then you should choose a different base class. and you',good
+'do read how to not be a spammer.',good
+'really you should have explained a lot better your problem. and downvoting just because we cannot understand your unexplained problem is just silly',good
+'if helpful, vote up. that\'s how you say thanks around here.',good
+'what don\'t you understand? why did you write this code?',good
+'pls have this as an answer! this captured a bunch of cases not sure if all',good
+'meanwhile anonymous downvotes without explanation. i believe they haven\'t even understood the question.',good
+'gif isnt white',good
+'-fpic would be an option for a compiler, like gcc. if you\'re writing asm, you\'d have to write the pic stuff yourself.',good
+'this is ridiculous, no matter how hard i try im on the edge of getting banned for some unclear reasons',good
+'visit wikihow.comcalculate-percentage-in-java you might get some idea.',good
+'op expects sublime text from path cprogram filessublime text sublimetext.exe so i don\'t think your answer is the op\'s intention',good
+'here is the last link unlocktheinbox.commail-testersuccjdryy spf seems to be okay now, but emails are still marked as spam',good
+'i don\'t think doing any simple computation every two hours is going to waste anything significantly.',good
+'if i were you i wouldn\'t let my threads stay up that late. i always put mine to bed by , at the latest',good
+'just cut and paste the text i will format it. pictures are barely of any use. in general, very annoying on the stack. because people cut and paste your text to make their answer. so a picture is like a waste of time.',good
+'lol you deleted yours i deleted mine',good
+'it\'s worth mentioning that a lot of e-mail clients i\'d dare to say the majority, even will not support javascript - not to mention the risk of the e-mail getting marked as spam or rejected altogether. i would advise redirecting them to a website doing this, rather than including a form in the e-mail itself. oh, and i just noticed..- won\'t really work when sent in an e-mail - if the form itself works to begin with which, it can, but likely won\'t.',good
+'great. i\'ve painted myself into weird generic inheritance corners over and over and over, so it really helped when someone explained the alternative to me.',good
+'a little advice. don\'t write an preface if you want your question answered. people don\'t want to read a story to answer your question. this will probably help you get more questions answers.',good
+'you\'re lucky. i was about to go to bed. i\'ve send you a reply through email.',good
+'i had this problem on some of my wordpress websites. i was surprised that no one has mentioned this on the wordpress forum. i can\'t upvote enough for this.',good
+'you too boss.tacked on a for you. who actually focused on his stuff while i was off in sc somewhere.',good
+'let\'s not go to deep.. alright.. this article might help.',good
+'it is not enough. one cannot understand where fails without seeing everything. i suggest you to debug your program instead of asking here.',good
+'they are not. one is get and second put. router should distinguish such obvious difference, don\'t you think?',good
+'the problem here is that we have a lot off functions that need to be present in draw and setup. so passing them one by one, is not an solution. we could pass them ass object but then we are back at square one. thanks for all your thought peter. i will rethink the idea and maybe we have to go for a global scope.',good
+'to the person who downvoted why !',good
+'if you explicitly tag a question with itext, and your question is not about itext at all, it shouldn\'t come as a surprise that itext people aren\'t too happy about it. what you do, is called tag spamming, and i am going to edit your question to remove your spam.',good
+'has no inherent relationship to c strings. for example, on windows, is wtf-, whilst c strings are guaranteed to be in some other encoding since win doesn\'t know what wtf',good
+'actually my professor talked about the precision problems. don\'t worry he is a great professor ahah',good
+'i agree. i just don\'t like to pass on the opportunity to tell people not to use regular expressions for every string processing task',good
+'we want to teach him to always specify an encoding, so when the encoding is different than he thinks he doesn\'t have to come back to so with a new question about why his file reading doesn\'t work. either answer properly or don\'t answer',good
+'only when you answer your own question. i think the restriction is there to stop people posting a bunch of questions and immediately answering them to game the reputation system.',good
+'why on earth would you call a user ? you make things more confusing for yourself and others if you come up with arbitrary variable names.',good
+'the op appears to want to get email addresses for the purposes of spamming. unless they provide a reasonable justification for what appears to be their intent, do you want to help increase email spam?',good
+'why down vote i want to know? i don\'t know how these people live, just by down voting without any reason.',good
+'over millions chars? this is enough for a book',good
+'it\'s sad that users don\'t lose rep for downvoting questions too.',good
+'stop wasting guids! we have only ,,,,,,,,,,,, of them!',good
+'i\'m sorry, i don\'t understand the chaining of for cols in zip for col in cols? i understand for cols in zip but don\'t get the double recursivity there. would you mind developping, please?',good
+'just put the items in an observablecollection, bind it in the xaml, and get on with your life. you don\'t get any bonus points for punishing yourself by doing things wrong. but if you\'re absolutely determined to waste your own time, have you tried raising propertychanged for the collection property? or are you not even binding it?',good
+'holy sht -- i\'m so tired, thank a lot.',good
+'normally we say thumb up but today i am going to say u hands up p u save my hope and time tanx',good
+'thank you man. u saved my lots of time.',good
+'you are a life saver dude',good
+'xd lol, k let me do some digging.',good
+'its totally okay.thanx anywayz.yeah i ll take a look at it and inform you that too',good
+'what else you wanna know please tell me',good
+'he clearly told us .all starting with a name.',good
+'getting facebook friends from not-facebook would be a little tricky, no?',good
+'i\'d rather ask this question and look like an idiot here than implement several mission critical solutions that break in the field. -',good
+'i\'m going to sound incredibly stupid, but is there an idiots guide for this? i\'ve tried following the generic formula on multiple occasions with a small c console app and i don\'t get out numbers that make any sort of sense to me at all.',good
+'you\'ve just made my life so much better. i\'ve been smashing my head against this problem, and those it causes upstream for weeks now. truly thank you.',good
+'oh sorry, ive just seen that u use, pos',good
+'yup.. u got it right now',good
+'- just got this too a moment ago, never seen it before. i bet it\'s a bug. don\'t know why you\'re getting down voted and people voting to close.',good
+'you made argsetof as static. it ain\'t gonna work as you wish being static.',good
+'i think he needs to know why it didnt work in his',good
+'you are a life saver man, i had been beating my head around for a long time.',good
+'i cant understand , what u are saying. i m fresher in phonegap.',good
+'superb dude . i up voted u for saving my day',good
+'oh my god. i am the biggest idiot on the planet. spring boot requires static resources to be in and not in .',good
+'thank you! i was banging my head against this for hours',good
+'all right, so we have just made a big mess here you just want the count of how many rectangles you just drawed ? like everyone else say, you have that in .',good
+'why man? you\'re mixing up way too many framework. chose one and stick with it',good
+'he beat me by a few seconds, i was racing to be first!',good
+'he has passed in his . if you look closely.',good
+'there is no need to call right after you set this adapter to the ! . also where is a code of adding an items?',good
+'you are a boss my friend, thank you for your time',good
+'if you don\'t want to do this yourself, then you can tell bill. i\'m sure he\'s happy to do it for you to gain some magical internet points.',good
+'hi i got it working. actually whenever i was opening the cron.sh file, the system was generating copy of the that file with cron copy.sh. and i was running .cron.sh like an idiot. thank you!!',good
+'we love to help, but sometimes you just have to get down and dirty with the manual tutiorials a decent book, etc.',good
+'i am an idiot. cropper ends before addline function declaration.',good
+', even i\'m happy to help iron men btw yr welcom',good
+'you saved my life! i love you man!',good
+'well i feel like an idiot, i had some conflicting javascript that was interfering with the \'next page\' button getting loaded properly. this answer is correct and i will update my question with the answer.',good
+'i\'m really sorry voip via adsl is blocked in my country s !',good
+'too hot today to keep my mind',good
+'he specifically says he knows how to do that already.',good
+'i hate my life, thanks jon',good
+'i love how i get two negatives. lol',good
+'thank you all for helping debug! that\'s what i get when i sit around coding at home with no one around',good
+'change the mask! there is no other way. the windows operating system only uses the mask!',good
+'not gonna lie you had me sweating there.',good
+'i tesetd your code and no data is coming through this line-',good
+'what is expected outcome for first code',good
+'i love d',good
+'well this sucks. the backend of the iframe site has a bug that will not allow me to add the base targetparent tag to the head of the site. unfortunately i do it like this because there are around - links.',good
+'how should you find out if anybody, anywhere in the world does whatever he likes with your software on his own hardware?',good
+'holy wow that is awesome! - that is a really cool trick that makes perfect sense!',good
+'i suppose you mean does the fosuserbundle exists and is it tracked ? the bundle exists in my copy.. but, i use git add . does it mean that files could be are untracked ? i suck at git',good
+'if ya don\'t your disposables, yer gonna have a bad time',good
+'three facts you must be aware of . hadoop has been designed for massive batch jobs, not for the kind of jerk-one-record-at-a-time stuff you appear to be doing . hdfs files are immutable',good
+'my original comment was wrong, it\'s on since they lists are in parallel. i hate big o and all of its obscurity.',good
+'hey friend can u tell me what graph is this',good
+'they are more popular, because most people have non-graph punch in their punch bowls.',good
+'i feel real stupid. that\'s what happens when you work too many hours in a day. thanks!',good
+'they can give all the explanations they want. i still feel like someone made the wrong call when introducing , but no .',good
+'i love you .',good
+'as always u have been awesome!',good
+'u mean i have to mute music on callstateringing?.',good
+'but they act as libraries in projecta anyway and should not influence the configuration of its di container. if it happens by coincedence, say, if projecta has no its own context.xml configuration and spring is picking up one from classpath by default',good
+'may be knuth\'s writings is a best place to start? he discuss many of these aspects.',good
+'by default, all components of the same application run in the same process.if you kill your app the process is terminated by android, you should start a service as a separate process if you want to run some background work even if you kill your app.',good
+'ok x i feel a little stupid .',good
+'i am making a game like tic tac toe',good
+'yes and it\'s not a problem, or i do not remember a case where this leads to a problem. afaik you have the option in plone to switch between email as login and login name as login. if you do so, changing the login should also work in your case.',good
+'it\'s just one of the utterly unbelievable things about apple that they haven\'t fixed this. that, and the fucked-up graphics cards in mbps.',good
+'here ya go',good
+'sorry about the knee jerk reply, i\'ve had some issues before naming params so close to eachother. found the error for you',good
+'i sure remember those days. hell, i\'m happy those days are in the past!',good
+'i hate to bother you once more, but there\'s no one else in this thread. would you please check it again, sir. now all i want to know is if it works. and if it does it probably the computational geometry equivalent of bubblesort\'s retarded cousin.',good
+'i just cant get it to work im literally making biger mess every time',good
+'people like you make the world a better place',good
+'i gonna have a look!',good
+'cody gray, i don\'t know who he is. i have just joined in.',good
+'thanks.i\'m gonna get some sleep and take another crack at it when i\'m up. if i still haven\'t gotten it you can take a look. much obliged.',good
+'ok honestly, this answer is so perfect, thanit\'s working! you really saved my ass! thank you so much sir! just last question for the camera its the same? like just swap imageurivybrana for imageviewfotak? and again thank you!!',good
+'k !! i imagined it really harder. as listener. i wanted to add a listener for each item.. such an idiot when i see your co.',good
+'thanks.. this is so useful',good
+'thx man',good
+'apparently your game just cares about rank, not suits?',good
+'with all due respect, you shot yourself in the foot with a regexp.',good
+'wow.i feel incredibly dumb right now. like i said.probably something dumb. thanks a ton.',good
+'who told you that?',good
+'it has a splashscreen, but that fades out to white.',good
+'nope. i gave him the key word he needs. bitmapdata.hittest',good
+'people get trigger happy with downvoting',good
+'how to count the each word\'s frequency in each row?',good
+'yes. but.and where these friends ?. photo and name?',good
+'- yeah, i\'ve noticed i would think that this would be possible though.',good
+'at cr you frequently find yourself wanting to give people .',good
+'this man is a genius.',good
+'then why doesn\'t it say so -',good
+'thanks. i\'ll go hang my head in shame..',good
+'ah, this sucks! i think compiler writers would like to go the extra mile to annoy users, it is perfectly valid to have a type that includes a map that has its type as value. quite useful too.',good
+'ok, no problem',good
+'agreed thx. as a matter of style i chose for brevity.',good
+'ha ha. very funny.',good
+'this is a tricky one. apparently it even stumped harvard comments.gmane.orggmane.comp.lang.r.zelig',good
+'me too',good
+'with the build is always in a docker cuntainer',good
+'oh i feel dumb.',good
+'call proc.terminate or proc.kill in the call back',good
+'what he said, buy you\'re missing a colon after',good
+'well that was a life saver.',good
+'can you ask the person who sent them to you?',good
+'do not perform gui actions off the event dispatch thread edt!',good
+'thank you, you\'re a life saver!',good
+'good job ! i voted up y',good
+'good madam cz i am madam . and no need madame i am gayathri . happy coding',good
+'this is wht i wanted.i work like a chram .tnk u',good
+'tnk u for ur help',good
+'ok thx man i will try it and give you a feed back',good
+'how dare you? do you think it\'s funny to make my life a living heaven? do you?',good
+'u didn\'t read word programatically',good
+'oh..got my mistake',good
+'yes that\'s why i changed',good
+lol.,good
+'turbo c just won\'t die. it won\'t die!',good
+'ma pleasure bro',good
+'what does your friend mean, exactly, when he says he wants to join these two scripts ?',good
+'finally i have found my mistake. in the c-code i swapped in the heat of the night two parameters if wanna hear the right song to the moment, listen to glen campbell guess i\'m dumb.',good
+'wow, its great then let me do few more research and come up to u for more doubts .. once again thanks',good
+'oh yea.. sorry .. let me do it now',good
+'indeed, it\'s a transitive dependency, look at its pom',good
+'afaik you need to pass either viewbag or viewdata contains maximum amount of array index to apply on view input, iterate through or loops while providing either multiquestionsij or questionsi to print text input with indexed name attribute.',good
+'understood, now. thx all. i will go back and re-learn.',good
+'you saved my day too! i was going crazy',good
+'i almost cried. so happy. so happy. i want to give you a million up votes.',good
+'oh wow i could have thought of that one myself.',good
+'good job.keep it up..u really saved my day and life.cant explain my feelings.thank you bro.',good
+'every day\'s a school day. a nice regex feature i have never actually seen before.',good
+'oh, dear god! thank you!',good
+'you\'re a bloody legend mate!',good
+'you rock bro.!!',good
+'hahahahaha i am stupit man.',good
+'awsome man . many thanks',good
+'-- and i love simplicity d thx!',good
+'wow it\'s amazing!',good
+'but i\'m the fastest in ice cold beer drinking',good
+'well sht.. kinda feel useless now hehe',good
+'loop through, keep a tally of the sum stop when you hit the chosen sum of',good
+'what every programmer absolutely, positively needs to know about encodings and character sets to work with text',good
+'yup,i gotta think laterally here',good
+'o my god i did try this but i left out the son of a gun.',good
+'nevermind, i got it. i like it. mine was fast because it wasn\'t as clean as yours lol',good
+'oh great.. y!',good
+'no its not the total',good
+'eitan no, i just her fans.',good
+'i have seriously gotta look at all these formulae i didn\'t even know existed until today. left? mid? right? que!? thank you lookaji',good
+'alexis, here is head of store',good
+'thank you for your answer. let\'s assume that i\'m a complete idiot as i\'ve been known to be one from time to time haha, can you think of anything that i could have possibly screwed up to cause this? worst-case scenario kind of thing?',good
+'oh sorry! this my fault , it turns out the advice you gave succeed . thanks bro !',good
+'apparently you don\'t know this answer yet.',good
+'this helped me a ton! thank you!',good
+'plus , and i love this more',good
+'you my man, are a genious',good
+'oh, okay got it',good
+'only i cant show u',good
+'oh man thanks, it was such a fail',good
+'his question and first statement is oposit. check once',good
+'hooks, my friend. hooks.',good
+'i suspect that you are a very wise man my friend.',good
+'hehe, this guy just linked us to localhost . it\'s not loading. help!',good
+'u\'r welcome. good luck',good
+'hahahaha it did work yea ! you made my night ! wouooh alfajbgg aginall fnf yes!',good
+'excuse me, i know i looked like complete idiot but i\'m not sure that i understand what you mean',good
+'i kind of understand it now, but i don\'t think i\'m using it right. i serialized a variable with the value of , and then after deserializing on startup of the program, and printing out the value, it was still .',good
+'you are right friend , excuse me !',good
+'oh.. right.. let me get back to you..',good
+'i love you',good
+'you\'ve made me entire day! thankyou.',good
+'lack of research effort',good
+'agree but - for answering a dupe. you should know better.',good
+'this shows zero effort on the author\'s part.',good
+'seriously did not even try did you. please at least search google if not stack overflow before posting a question.',good
+'if programming is your thing then a little bad information won\'t hurt anyway. everyone knows what they\'re talking about, but many of them are very, very wrong, even when you get into the workplace. half the challenge is figuring out who to listen to. if your instructor is giving you questionable information and you\'ve figured out where heshe is off then you\'re on the right track.',good
+'i think the downvote is because it is genuinely very unclear but i can even things up a bit.',good
+'voting to close as unclear, as a question was asked in the comments, but no clarifications were forthcoming.',good
+'by no means i want this question to be closed, but isn\'t this question a bad fit by so standards? similar questions have been closed because their title\'s was categorized as opinion based. i just don\'t get it that so works. perhaps how so rulings works is opinion based.',good
+'from a console, or a multitude of windowing wrappers that drive commands to gdb if you\'re into guis. personally, i\'d hit the web for a quick-info tutorial on gdb and old-school it from a console as a learning experience. trust me, the effort it will pay for itself many time over. don\'t forget to build with debug-symbols enabled -g',good
+'xml is very strict about the format of attributes. html\'s rules are much looser. e.g. is a valid html attr but invalid in xml. really, they\'re both derivatives of sgml.',good
+'thank you, stupid mistake --',good
+'please search first as this only gets asked thousands of times on this site. for example',good
+'if you can\'t properly formulate what exactly you\'re trying to do, finding or getting help are not going to be easy. anyway this is not about programming, so off-topic for stack overflow.',good
+'i\'m afraid this type of question isn\'t a good fit for stack overflow. see stackoverflow.comhelpon-topic',good
+'if you guys ant say anything just don\'t down-vote simply without asking',good
+'no problem don\'t forget to mark answer as correct',good
+'the people who really tried some code, i tried to gave them full answer, otherwise not recently.',good
+'you can answer your own question and accept it to help the others who may encounter the same question as you',good
+'people only have eye on the fomat of question. anyone give me an answer?',good
+'please delete the old comments',good
+'yes its not a doubt its a fear of my mind that cant take a choice or dont know where to go',good
+'there\'s nothing wrong with a post being closed as a duplicate. if it doesn\'t answer your question then edit your question explaining why. in the mean time - this post is locked for an hour to give everyone time to take a walk and chill out. keep it civil and constructive. thanks.',good
+'please don\'t downvote my questions without explaining the reason! it limits my privileges. i\'m just new here, guys, come on!',good
+'can you please leave a comment when you downvote, i would like to know why.',good
+'don\'t expect a magic answer. listen to comments given. i\'m not going to stand here for hours waiting. i have better things to do with my time.',good
+'to clarify the comment by - the recommended asks the device to render the website based off its actual pixel width, rather than the pixel density which can sometimes cause a website to load as though you were zoomed out.',good
+'you\'re leaving a trail of unanswerable and unanswered questions. watch out beyond a certain number of such questions, you\'ll find yourself unable to ask new questions. best to delete such threads before forum rules catch up with you.',good
+'perhaps you should expand your acronyms, for people who don\'t know what spoj or wa mean.',good
+'what would be of help is trying to help yourself before asking others. ahk is well documented. have you started off by reading the introduction to hotkeys?',good
+'you did a great job describing what you already have. but we don\'t know the exact problem you are facing. can you enlight us?',good
+'so is neither a code-writing nor tutorial service take the tour and learn how to ask.',good
+'what did you try? we are here to help you solving bugs, not to write code for you. altough that is an easy way to gain reputation, it does not help you learn.',good
+'generally speaking you can\'t and shouldn\'t abort user attempt to leave your site.',good
+'use a search engine to find a tutorial or just read the docs at jspm.io',good
+'it\'s nothing, don\'t mention it. if you have further questions maybe ask a new question, also .. cheers',good
+'we aren\'t a freelancing site. start doing it yourself and when you have a specific problem come back and ask. we\'ll help. but we aren\'t going to write the app for you.',good
+'i noticed you\'re just doing a bulk edit and strip off the from your lines. may i ask? are you just cleaning up? i read about it and learned fatal is not particularly recommended nowadays. is that the reason? no offense, i\'m just curious. this is a self-destructing comment.',good
+'this is a great question! generally people want the opposite of what you\'re asking for!',good
+'i don\'t mind the downvote but i would appreciate an explanation that would allow to make the answer better.',good
+'you\'re welcome and don\'t forget to mark you questions as answered if they are so others can benefit from them.',good
+'don\'t forget to upvote answers and choose the best answer',good
+'you\'re getting downvoted because before asking you should try something and then come here and ask what is not working. providing code is a vital part of a question',good
+'you are always allowed to answer your own question. normally it is only done when the solution isn\'t covered by an existing answer and when you think that your own answer will be helpful for others.',good
+'don\'t forget to look for the answer yourself before asking us google.comsearch?qitemgetter',good
+'that\'s not how so works. we are not a debugfixwrite my code for me site. you do the work, we help - if you ask well researched and well explained specific questions.',good
+'i went through your other questions on stackoverflow, and there\'s not a single well-researched, well-asked, precise question amongst these. please go and read the how to ask a question page, and also inform yourself on which topics are allowed on stackoverflow. this question is totally off-topic.',good
+'and reading a sparql tutorial does not work for you?',good
+'how do you expect us to know whats going on without seeing any code or the website itself?',good
+'showing the action isn\'t going to help us identify why it\'s getting called twice. that\'s like showing us a bullet and asking us to identify the shooter!',good
+'do you have any effort to show us? remeber that you shouldn\'t post questions that just ask write code for me see the help center',good
+'you don\'t have to create a library. turns out someone already did icu. btw, please my honest words of sympathy.',good
+'one question at a time, and we don\'t recommend libraries, that\'s off topic here',good
+'thanks for the note. please consider to accept the best solution by clicking on the tick mark next to the vote.',good
+'i just realized - you asked this question already, right here. and you even marked the suggested answer as the accepted answer. why are you repeating your question? if the answer isn\'t correct in the other question, why not unmark the accepted answer, and comment under that answer to explain the issue?',good
+'where on earth did you get the impression there stack overflow is a free research tool where people do your research work on your behalf?',good
+'i am a little lazy and just want to have a quick answer from experienced person. i don\'t need to know them in very detail for now. want to have a high level understanding first.',good
+'heck with the down votes . i\'m just trying to learn. thanks.',good
+'read my comment - i never said the question was opinionated. recommendation questions are off-topic because they tend to attract opinionated answers and spam. the link i gave gives some good pointers on how to ask a good recommendation questi',good
+'deploy the site on google app engine?',good
+'so how do you guys know that op is taking that course and he is asking this because he has to do the homework?',good
+'you don\'t need the cast to - an address will implicitly convert anyway.',good
+'not anymore. the community shouldn\'t need to downvote answers to clean up.',good
+'if you meant the single quotes, i have corrected it. also this might not be a copy-paste soln. beacuse i dont know ur db schema. you can understand the logic and implement.',good
+'hold it dude - are you including your own manual trees ?!! like real physical trees?',good
+'i can\'t believe you\'re suggesting to use regex when someone finally asks a question about parsing html properly.',good
+'sorry for my idiotic way of asking',good
+'you have enough reputation to upvote answers and you can also accept most useful answer. please make use of this privileges as especially accepting an answer is very important here on stack overflow. endoro and i have spent a lot of time to help',good
+'can you please delete your answer? i would like to delete this question.',good
+'i thought to swap array. and don\'t mind my mistakes while asking cause i am new to this community.',good
+'that is sad. have you tried contacting bluemix support and asking them for help?',good
+'im just a noob trying to get some help',good
+'feel free to upvote my answer if it helped out!',good
+'i know bro i cant thank you enough sorry for pissing you off man . really thank you',good
+'assuming i am a total idiot, please comment those lines, or put it in a step-by-step format that i could follow - is not something so is here for. take the tour and read how to ask.',good
+'i don\'t mind the downvote but at least point me in the right direction while you\'re at it! -',good
+'no problem, if you found the answer helpful then don\'t forget to mark it as accepted. happy coding!',good
+'why is everyone down voting this?',good
+'why would you guys downvote this good question',good
+'i\'m voting to close this question as off-topic because asking for code is not the purpose of this site. please read the faq.',good
+'have you actually tried debugging your own code before posting? does this even compile? last time i checked isn\'t a valid keyword',good
+'wrong site. you\'re looking for ask ubuntu or super user instead. this site is for programming questions.',good
+'don\'t know why you got a downvote just like i got one for this. plus one.',good
+'i\'m afraid this is off-topic here. you can look this up in any math textbook.',good
+'give answer if you know how to solve this instead downvote the question.',good
+'i also have another question a bit off-topic. how do you guys get notified that a question is posted on stack overflow. i got your reply very fast.',good
+'those errors aren\'t caused by my answer, they\'re a consequence of the compiler going further down its checklist now that i fixed the most pressing error.',good
+'it\'s on my feed i haven\'t been answering questions lately though. lots of stuff going on on my end.',good
+'- i don\'t have one and i don\'t have the time to create one. if you wan\'t to fork your plunker, or create a new one, and give it a try i will do what i can to help you.',good
+'yes sorry i managed to solve it, it was the most stupid error i\'ve ever done. i put an underscore instead of the dash when naming the file!',good
+'this is fucking awesome. thanks so much. i understand most of the code, i just have a few questions. is there a reason why the print method is at the bottom? and how come it replaces the output of the first block? wouldn\'t the code run the main method first and fail?',good
+'it doesnt matter where the print function is declared \'how come it replaces the output of the first block\' wtf? can you write it again you need to return a variable thats why system.out.println did not work',good
+'this isn\'t hard to understand. the dropdown is in a container that clips all its content and hides it, but the menu has a high z-index to put it above everything, but that doesn\'t help because the container still clips it. in other words, the menu shouldn\'t be in the container at all. bootstrap\'s menu sucks, because it doesn\'t parent the menu to the document above everything, it just leaves it in whatever container it happens to be in. it\'s bad design.',good
+'both of these solutions work, however when i ctrl c to kill the testtail command my prompt turns red. any idea what thats all about?',good
+'check the configuration options--configure texmaker--command--biblatex bibtex .aux use the stupid pdflatex-biblatex-pdflatex pdflatex order to compile try to match the bibtex version with the biber version i have now . and . so hope something is working i dont know .i ve been like days searching for a solution',good
+'do you know at which place should i applied the code? i replaced the app by the actual app id, but it doesn\'t seem to work. i think it might be safer to go with option since it will open a new window, there is less chance of something going wrong for the people clicking. and thanks for your first answer! also i should ass that this is dedicated to mobile only, not that it would change a lot of things.',good
+'i\'m not sure, but version true might be interpreted like --version, thus typedoc simply emits the version and quits.',good
+'if is just a part of your messages, you can use internazionalization but adding parameters so you can make it a little bit more dynamic.',good
+'not a shitty calc, just don\'t give up !',good
+'it was a joke about another post fred. the one where the guy said you were doing it wrong.',good
+'your comment however didn\'t help me with my question.',good
+'haha. don\'t worry about it!',good
+'got it.i was stupid that when i add url url\'getvariants\' \'\' masterid, it showed me internal error and i thought i must be some other error.when i print some value thn it shows me the response.',good
+'i was so stupid.it was an server error later.',good
+'exactly what i was looking for. the reasoning why the last day is left out. still, its a stupid default.',good
+'okay think you can ignore my stupidness - i\'ve found another duplicated stackoverflow post here stackoverflow.comquestions - will just follow this',good
+'oh thank you very much, i was looking at that stupid gradle example and thinking that keep is something like dont modify this source cos i might debug it or similar stuff',good
+'everybody please help me!',good
+'not at all. but this doesn\'t jump to the definition of a struct either, when ctrlclicking on a struct name',good
+'oh no. my playground shows me how many times my if statement is true. i put a print inside my loop and shows me times. i understand now. sorry for this stupid question',good
+'interfaces are good. but for looser coupling, use broadcast listeners.',good
+'sorry for giving away the trade secrets, boys.',good
+'can i move question? or should i repost it?',good
+'i wanna be like you when i grow up',good
+'how are we supposed to know?',good
+'i really can\'t understand the question',good
+'further, unless looser semantics have been requested, a compiler should ensure that all register-cached values whose address has been exposed to the outside world are synchronized with their underlying storage before and after any vo',good
+'besides being a dangling pointer, adding insult to injury this code will attempt to retrieve, randomly, element through from an array that contains elements through . th of a time, this will result in undefined behavior, and a likely crash.',good
+'thanks, i didn\'t know that, i only bothered to remember that is a piece of garbage. is much more usable.',good
+'back one year later. i have now accepted it eagle couldn\'t be more right in his poetry.',good
+'ok. but how can somebody down vote without knowing the concept',good
+'please read my question carefully. i asked auto trim, not manual trim',good
+'old answer, but still very relevant. code analysis as it is now still has some silly rules such as this one which assume coders are idiots. anyone who even half way understands the language knows what means. first thing i do when setting up a new project is disable a ton of ca rules such as ca.',good
+'good to know you manage to resolve',good
+'this community is all about programming, not commandline help',good
+'how silly i am for this stupid question.shame on me.',good
+'to actually add insult to injury why in the world somebody thought of adding , instead of a ranged constructor?',good
+'gotta love those people who simply downvote questions without reading them.',good
+'well if you know what you\'re doing, yeah.',good
+'nevermind, i was able to finally narrow down the problem. the way i have it, is that one of the ways you can open the is through a submenu when you right click. however, i kept reading the s w',good
+'i couldn\'t so am asking.',good
+'but . i dont knw',good
+'u r right. thanks for saving my ass',good
+'god damn i feel like an idiot now lol',good
+'holy jesus. i probably just made the biggest blunder of my life. you\'re right!',good
+'why was this voted down? vote downs with no explanation are the worst thing about so.',good
+'managed to solve it. ugh, what an idiot. the was sitting inside a which was sitting inside a . i was moving the up on and this was, whilst visually ok, pushing the outside of its parents boundaries, so touches weren\'t registering. thanks for your help',good
+'wow thank you i feel like an idiot. thanks for taking the time!',good
+'no. he told a joke!',good
+'i see ! you\'re good then.',good
+'i don\'t why he\'s getting minus he asked a decent question.',good
+'btw a great tool for this is relacy, it allows simulating looser memory models on x, i wrote up my adventure here codersblock.orgblogditching-the-mutex',good
+'do you guys have any idea about this',good
+'if you cannot your self tell from your stack trace what causes the error, you may want to post the stack trace here.',good
+'don\'t ever let anyone tell you that you are not the man because you are the man!',good
+'we are all learning lol don\'t feel bad at all',good
+'you\'re the mvp!',good
+'this question with his answer are really useful for those who are not a designer and can\'t effort don\'t want to pay one.',good
+'hi lol you\'re hilarious',good
+'i\'ll do that. sorry for wasting people\'s time.',good
+'i only wanted to mention it, not to insult you. it does not mater how long you in, but how many different type of tasks you have done. everyone is learning.',good
+'he is twist, so rape serial port, which incoming firstfifo, where a query where matched answer? who clear ? he send query and try opening file, what is timeout exception ?',good
+'fyi you should use hour format or else how do you know the difference between in the morning and at night? also no need for the as the db column doesn\'t use that.',good
+'you can set property..',good
+'this worked perfectly. i was looking for a way to not remove the class from the clicked dot and this was it. thank you.',good
+'this is more of a workplace question. we answer questions about writing computer programs here.',good
+'did you have some states on the notifications, for example readed and unreaded?.it makes a lot of more sense if you instead of return a json response from the serversee php.netmanualenfunction.json-encode.php with all the unread notifications for that specific user.',good
+'actually thats the only while loop i see that has the incorrect trailing semicolon, most the others are do-while loops',good
+'oops, good point, but hey just an example. we still don\'t know how op wants to mutate each group.',good
+'post your code.',good
+'post a minimal, complete, and verifiable example in your question please.',good
+'i threw you code in a plunk and it seems to work with no console errors. plnkr.coeditpbnblrrtxeerjli?ppreview',good
+'possible duplicate of order of constructor call in virtual inheritance',good
+'declare the function before using it.',good
+'sometimes you inherit bad tablecolumn names from those who have gone before. it\'s just something you have to deal with. you can put double quotes around a column name to allow mixed case names. it may make the query seem a bit cleaner as it doesn\'t look exactly like a keyword.',good
+'everything my answer included is a sledgehammer approach. if dependencies aren\'t tracked properly, you basically have no option but to do a full rebuild.',good
+'hav you counted how often your loop in is being traversed altogether with aa and with aa by any thread? once you have, come back and modify your question. hint your threads don\'t share any work',good
+'is used to reset terminal attributes like display color. is executed before the prompt is displayed, and the command is presumably used to undo changes made earlier in the prompt but not shown.',good
+'nope it looks for one of them it is a character class after all.',good
+'not sure whether relying on the order of the properties in object is good idea.',good
+'undefined behavior. you can\'t predict what might happen with any degree of certainty without knowing the exact context in which your program is running.',good
+'welcome to stack overflow! it sounds like you may need to learn how to use a debugger to step through your code. with a good debugger, you can execute your program line by line and see where it is deviating from what you expect. this is an essential tool if you are going to do any programming. further reading how to debug small programs.',good
+'remove the semicolon on your while loop line it should just be edit actually i see this on multiple while loops, there shouldn\'t be semicolons on any of those. you don\'t see any output because none of your if statements will evaluate to true at the end if your while loop doesn\'t run for enough iterations to make any of the conditions true. that semicolon is just ending the while part of your main loop so it will run no more than once.',good
+'why .?',good
+'can you share your code that you tried?',good
+'it\'s an , it will match all records that are not or \'null\'.',good
+'can you add some relevant code showing exactly how you are declaring the background of the site?',good
+'don\'t you need to add the buttongroup to a form or panel?',good
+'i\'ll add an addendum to my answer.',good
+'how about select from tams.orderdetail where isnullcheckpointstatus,\'na\' ! \'completed\'',good
+'op original poster',good
+'i would assume the ? is the crucial part op wants to know.',good
+'what about ? jsfiddle.netvabsqv',good
+'thank you sir. little adjustment but i hope this can help others as well who will have a hard time using arrays.',good
+'yeah of course! let me add a hint on that',good
+'read how to ask then edit your question to contain a minimal, complete, and verifiable example including concise, testable sample input and expected output.',good
+'mcve please. my eyes can\'t handle this much java without an ide.',good
+'your main question doesn\'t make sense to me. it returns because push returns the length of the array you\'ve inserted element to. it does push element to the array, but as you\'re logging the return of push, and not the list you see only . if you\'ll log you\'ll see that that your array has in it',good
+'have you looked at the documentation for ?',good
+'i just worked it out went with',good
+'you can do it in between the data frames creation and writing to file with',good
+'you could also use instead of , it already has several events related to data changes.',good
+'possible duplicate of what is a nullpointerexception, and how do i fix it?',good
+'welcome to stackoverflow. please read and follow the posting guidelines in the help documentation. minimal, complete, verifiable example applies here. we cannot effectively help you until you post your code and accurately describe the problem. stackoverflow is not a coding or tutorial service.',good
+'welcome to stackoverflow. please note, that this is not a free code-writing service. yet, we are eager to help fellow programmers and those looking to learn with their code. please read the help topics on how do i ask a good question. you might also want to take the tour and earn a badge while doing so. afterwards, please update your question with the vba code you have written thus far in order to complete the tasks you wish to achieve. stackoverflow.comhelphow-to-ask stackoverflow.comtour',good
+'crystal ball says you are not calling cwinthreadpumpmessage. no message loop no messages.',good
+'kotlin made the choice to support implicit sam interface conversion to functions only for java interfaces. not for kotlin interfaces. i agree that this hurts readability in some cases. type aliases will come in the next version afair. jetbrains will then see if that fixes the problem of if conversion of kotlin interfaces should be allowed. there\'s a feature request for that youtrack.jetbrains.comissuekt-. in the meantime, i would just use in the signatures. hopefully refactoring the code with type aliases won\'t be too hard.',good
+'in your last comment there are spaces before the flags, which will cause this error.',good
+'what have you tried? we\'re not going write code for you.',good
+'good point!.',good
+'i guess op is surprised that the value he reads out via the const argument can change.',good
+'where is problem you talk about ? please add more information to your question',good
+'i have a ble device with a refresh frequency max of hz . hence ms',good
+'you will want to go through the process of collecting the indices of the y values that match as i did in dupeslist twice, once for both the min and the max variables. once these indices are collected into two separate lists, use to draw the lines on top of the scatter plot. you will probably want to add the col argument to control the colors.',good
+'you may think your question is reproducible because you link to input data, but it\'s much better to have the q be self-contained.',good
+'please provide a reproducible example',good
+'you can save textview information if you convert to string or string but no textview object.',good
+'what dbms are you using? sql server? mysql? oracle? something else?',good
+'this site is for programming questions. we\'re not general os tech support.',good
+'using once per file is definitely better than calling once per line of input.',good
+'technically this is a variant of a pivot query, and mysql doesn\'t support them. the workarounds get very ugly, very fast. if you only ever need to check for , then it\'s not totally horrible, but the workarounds can not handle .n arbitrary transformations. you\'re probably better off implementing the counting logic in client-side code, and just doing a conventional query.',good
+'your question title talks about a cycle. there is no cycle here.',good
+'it doesn\'t work is not a question. what have you tried to do to debug the problem? add some logging statements somewhere so you know what your code is doing.',good
+'you may well not be able to send the email from another recipient. while technically you can set the from or reply-to headers to any value you want, your smtp provider gmail might see that as an attempt to be deceptive and might change the from header you have set. that\'s just speculation, but it would explain what you see.',good
+'and start with understanding basic differences between server and client.',good
+'what exactly do you think is wrong with the code that needs to be picked up by sa?',good
+'something like that happened to me when i had plyr package loaded',good
+'is a subset of , so every algorithm with a time complexity of also has a time complexity of .',good
+'you forgot a quote somewhere.',good
+'i want to be able to get a pointer that refers to the void foo method inside the a object you must understand that there is no such thing so you cannot get it. there is only one method in the memory that serves all objects of type class . that\'s why you must specify object to which you want to apply this method for example in the form - unless that method is static. to answer question how can we make a difference - method get\'s hidden parameter by which you know to what instance current call is made',good
+'no, that\'d probably be the most efficient. just be careful, because you will be dealing with a string, and may run into trouble with other functions that expect text strings, not binary strings. e.g. something that mis-interprets a sequence of your bytes as a unicode multibyte character.',good
+'i\'ve already used this method successfully to create a cache of random bytes to be used on demand.. it should work just fine.',good
+'well if its working all right, what do you need help with? improvements? also can you double check the code that you\'ve posted in the question? i see infinite recursion.',good
+'remove androidonclick attribute in xml and test it,',good
+'are you sure you have more than file in the folder? if so, it will immediately end the do loop.',good
+'that was it. thank you very much for your help and thank you for the great explanation. i am new to visual studio development.',good
+'you posted just a few seconds before i figured it out and posted my own answer',good
+'have a look on this answer',good
+'how fast is x? we don\'t know, benchmark it and see.',good
+'found this that indicates it might never be coming - connect.microsoft.comsqlserverfeedbackdetails',good
+'you can\'t parse html with regex.',good
+'thanks this will surely help i dont know a dumb bitch just rudely answered cuz he doesnt know but ur a good guy thanks a lot mate u made my day',bad
+'stop wasting your time. downvote and move on.',bad
+'wtf - why - fuckers?',bad
+'you guys are literally idiots. okay i have two excel files. this isn\'t rocket science. and the way you use these two files is by copying them, and then pasting them in a different folder. then you change the name and enter the information into the files. what i want to know is if there is a way to make it that you must copy the file. that the file is read only until you copy and past it after which it becomes editable. why is that confusing or complicated?',bad
+'community demands questions like this, it\'s the trolls and mindless inane rule followers who close them. if almost upvotes does not convince you, you\'re a moron. countless questions like this are upvoted to the moon but this does not matter - only the arbitrary rules and point trolls matter. trig - screw posting this on meta, whenever you bring something like this up you\'re gang-trolled and silenced. what\'s the point? meta is the so troll den! give the appeal to so help page authority logical fallacy a rest, please. the community has spoken.',bad
+'it took me to an advertisement web. i gonna flag this as spam if you don\'t fixremove this soon.',bad
+'dare to explain for downvote.u bastard',bad
+'if you dont understand the question then you dont have any right to answer.',bad
+'and another troll voted me down points.',bad
+'idiots, where is the solution the guy advised me? i came here to pick it up and see some off-topic shit!',bad
+'suck my dick yo reputation suckers. the question was created nicely and clearly',bad
+'leave .net to be able to get answer from geeks who hate .net',bad
+'piking a random crap from a ground and asking why is it tasting like a crap? c\'mon.',bad
+'first off, don\'t you think i already know something is wrong with my code? why would i ask this question to start with if i didn\'t know there was a bug in my code. nd off what the hell are you talking about? linux? i\'m talking about html.',bad
+'ill flag the damn prick to be banned for you tom, hopefully we can get this cleared up.',bad
+'jquery sucks ass.',bad
+'need, i got the sarcasm right away, and left up some more shit at that crap all the way.',bad
+'ok - show us how to \'easily\' create the gui in the first link using absolute positioning. put your code where your claims are! moronic advice like this usually leads to ten more questions before the op finally realises just how unworkable it is - and in the meantime, people that recommend null layouts have crawled back under their rocks. down votes well earned.',bad
+'what kinda smart ass remark is that?',bad
+'-ii- i m not a php developer, i dont know about php, and i dont wanna know, just help the other and got error, so i ask u guys,dont make shit here, if u guys have no idea on my post, thx.',bad
+'you spammers are real fukwits',bad
+'children. enter your stupidity. press ctrl z then enter when finished.',bad
+'this is entirely unrelated garbage with a spam link at the end. flag as spam.',bad
+'i didn\'t downvote you. some jerk downvoted everything here.',bad
+'if you have nothing good to say shut up .',bad
+'what the hell is that bro haha',bad
+'some idiots use to do that',bad
+'it\'s actually explained, and seemed to help a lot of people already, troll away elsewhere vlad .',bad
+'this answer is crap',bad
+'this is bullshit for a site processing financial data .',bad
+'if you downvoted then you must know the answer mustn\'t you? so enlighten us with your knowledge smartytwatpants.',bad
+'wow, i see the poster won\'t accept a answer. i hate these people',bad
+'it is the same concept you moron! it points him to a fundamental flaw in his code instead of just throwing the right code at him.',bad
+'if you have nothing good to tell, shut up.',bad
+'i would like to see the question in more general from. currently it sounds stupid and not useful to others. btw, you have bannded all my attempts to mapforeach the dictionary. i hate you for admitting the questions in the stupid, unreulsable form.',bad
+'-li- don\'t you have any other works except writing fucking stupid comments if do not have an answer for a question just shut the fuck up and let others say their answers',bad
+'your inability to read the guidelines of this site poses a question about your capability, don\'t you think?',bad
+'well not perfectly clear, but i am sick of the close nazi\'s that patrol this site. how about helping a new user understand that their title is confusing? or proposing an edit?',bad
+'are u kidding me, i was put on hold.most ppl really have so little to do that pick on us learning.wow do you thing thati m up at thistimebecause i m not willing to do the work? what is and isn t off topicis not that blackand white, but thanksi will never returntothis site.',bad
+'wtf is that? ave you read the question at all, how it relates?',bad
+'that guy you work with, tell him he\'s an idiot.',bad
+'this is quite fucked up, can\'t we admit that ?',bad
+'can you kindly stop demonstrating your stupidity and incompetence, please?',bad
+'fuck so is retarded sometimes. what is the down vote for?',bad
+'sorry, but this code is absolutely crap. i dont even know where to start here. start again from scratch and dont mix php js this way.',bad
+'are you serious? this is borderline spam.',bad
+'would the asshole that downvoted explain why at least?',bad
+'i gave the earth to jehovah to create ok ,the book u can find is the begging of genesis,it tells u that in very few words how god first imaged man and the universe then turned the development over to jehovah who has been in a process of manifestation for ages and eons . go study and find god on ur own all of u. u have no idea who i am or what i am on so all need to go back to school stop harassing me and stealing from me and trying to kill me if u do succed all will die but i will always be',bad
+'you should be banned from so for posting this even if the site clearly says you can\'t post a jsfiddle without code you people alway find a way to post it',bad
+'i bet all that is scibbled out is chris',bad
+'- you are asking for free help and being kind of a dick about it to everyone who tries to help. telling people to read more carefully really means you should write your questions more clearly. also, see my answer, it\'s the best you\'',bad
+'thanks for being a dick you know you were being one, c\'mon, and also i bet you dollars my solution is better than yours. i\'ll send you cash money if your approach is better.',bad
+'and for the record, i said kind of a dick, which, again, you know you were being. just like i know i\'m being kind of an assface not letting this go.',bad
+'what is your problem with me man? that is certainly not illegal, maybe facebook does not like it. but it is not illegal. i learn a lot every day on this page, from smarter people\'s knowledge. how the hell did you learn math in school. you asked the question, the teacher answered it, you analyzed the method, next time you could do it. if you don\'t want to help, that\'s fine just close this page and don\'t waste your time.',bad
+'who the hell down voted??',bad
+'have you read my question ? before you take mint to prove your nice point i said the simplest way so if any one has a simple way he came out with he should help and if you dont have any ides just watch other members they do or leave smart man',bad
+'this question is spam. flag it as spam by clicking the flag link instead of voting to close!',bad
+'what the hell are you doing?',bad
+'blah blah blah..bur.i\'v got my answer u can vote for anything.',bad
+'don\'t waste my time. i am not going to feed your ego. clearly said don\'t bother.',bad
+'wtf are you doing ?',bad
+'your such a shit.. how u even get that rep idiot.. you have no helping mentality.. gtfo in my post',bad
+'he have screenshot for his moms pc',bad
+'just shut up if you can\'t offer any constructive advice. question was answerable after edit and i mentioned in bold that this is non-standard.',bad
+'i am sorry that my absurd note in which i point out that you are incorrect is without any merit since it contains links to exactly how you are incorrect. what ever bud. neg rep a correct and working answer all you want while ignoring the syntax from other so users and your own link. i\'m not going to argue with a troll.',bad
+'lol. buddy, i\'m not the one that claims i don\'t need to read anything. hate all you want, but don\'t try to shift your trolliness on to me.',bad
+'the asker is fully ignorant to user feedback, so definition of reason hardly applies here.',bad
+'you should read what i wrote. again and again. and please stop trolling, people on so are pretty quick to delete if you start trolling like that, take your anger to some forum of sorts',bad
+'don\'t listen to ? ? he is trolling me',bad
+'? ? that is trolling',bad
+'surely this is against stack overflows policies, you\'re a moderator, you should know better than to troll a user!',bad
+'wow, i havent expected the author himself to answer this.',bad
+'shut up you autistic fuck',bad
+'you all idiots ,fixed my own hehe',bad
+'only a moronic would downvote this question. don\'t be a coward and speak up!',bad
+'i don\'t care how you new you are whatever you\'re doing, whoever you are, and no matter how experienced you are, perform some research and engage your brain.',bad
+'i voted to close as off-topic, you suck!',bad
+'impossible to answer without mcve. shut up!',bad
+'if you didn\'t want to help, i respect your decision but trying to insult someone that is asking for some help just to find a place to start because they\'re a novice at programming, and have been presented with a problem that hasn\'t been covered after chapters of reading and studying doesn\'t make you look cool, it just makes you look stuck up and like an asshat.',bad
+'so fuck you, fuck stackoverflow, and fuck your community, because programmers are pricks. i hope there is a time that you need help from someone on the technical side and they spit in your face and tell you this is off topic.',bad
+'totally understand your action, op is being a dick so im ignoreing this one -',bad
+'more applicable is plutonix a douche bag that only wants to follow and try to troll someone rather than actually help?',bad
+'i always use the same argument. it\'s aweful that web, css, js is still so f bad. i think all the major companies do this intentionally to make life difficult and unproductive for developers. nothing ever behaves as one would expect. th',bad
+'fuck you faggot. if you don\'t know shit no need to answer. you\'re confusing people idiot bitch motherfucker',bad
+'asked the question just to answer it herself lol',bad
+'also, spot being an annoying twitter troll with automatic tweets! get a proper job justsaying twittertroll ihatewhatthisworldhasbecome',bad
+'unbelievable. a website with this reputation, and no one. no one, try to help me. clap clap. maybe there is some mistakes in my question, but you i am talking with who downvote enter here just to negativate my question, if you don\'t ant to help, why you don\'t keep the vote for yourself. now the question lose relevance and probably who knows the answer will not see this post!! clap clap for you guys !!',bad
+'funny how when i asked a question previously, everyone got shitty i wasn\'t posting code to debug and wasn\'t utilizing the community correctly. then when i do post code to debug, people get shitty about that. i guess there\'s no pleasi',bad
+'what a funny kid enjoy your stay here',bad
+'looks like you are either you are a troll or you don\'t think!',bad
+'and for the last time, stop crying, i said i have no more freaking intention of discussing this further yet you\'re pushing me like a child. i don\'t give a crap about this post, nor do i give a crap about what you think. so shut up and live your goddamn life and leave me alone if you\'re not a child.',bad
+'and am sorry if you\'re butt hurt because you can\'t make a point.',bad
+'more garbage to make idiots happy? yes, i recognize the so!',bad
+'lol don\'t be butt hurt. you\'re the arrogant one here. this answer did answer his previous question before he edited his question and by the way your down vote doesn\'t hurt me. i\'ll leave it here for people to see how stupid you look.',bad
+'didn\'t see that you wanted them dynamically loaded. and don\'t be such a dick about it, i know the answer to that question too but now i don\'t really feel like telling you.',bad
+'fuck you all mother fuckers',bad
+'shity community no encourgment just overrated slut community',bad
+'slut community assholes mother fucker',bad
+'- i know javascript. knowing what the function does is not relevant to the question. also, if you\'re offended by my language on the internet, feel free to suck my butt.',bad
+'are you jealous halfer bz damiano provided me with a real answer which u couldn\'t? well fuck you then. you suck!',bad
+'yes but i know for a fact, my answer is correct. go away troll.',bad
+'thank you for these cheerful encouragement. p i\'ve work in the main files and now with deep breath it starts to work. i\'ve change files and most of problem are with ereg and mysql . and the fucking gay who have make it have make func',bad
+'flagging as spam',bad
+'wtf, every single stack overflow question is put on fucking hold. i\'m sick of this.',bad
+'if you don\'t know then better don\'t answer it.',bad
+'i hate people like you they just want say something.you can simply ignore',bad
+'a coward? really. i had the question disassociated from my account because -- after i was extremely polite and thankful to you -- you were rude and abusive as you usually are and i lost interest in it. have you ever considered that having mucked around so for so many years and piled up rep doesn\'t give you a license to act like a dick?',bad
+'yeah, well after question on my previous account i lost the privilege to post question, and not to be rude, but your comment is not any less of a pointless thing than my note.',bad
+'lmfao the butthurt here from the so \'correctness\' crowd is palpable. they can\'t stand the idea of a correct answer being given to a question they disagree with.',bad
+'penis is .cm',bad
+'a slang word for an old man who has an aggressive attitude.',bad
+'gotta love drive by down votes. especially from people too stupid to understand either the question or the answer.',bad
+'fuck your ass bullshit crap',bad
+'asshold fuck you nigga',bad
+'delete my comment if your mom is prostitute.',bad
+'this must be a troll post, right?',bad
+'thank you ken white for being an upitty kunt. let me guess, youre a middle aged loser living in your moms basement sitting around dumping on those less smart than you on programming code since it is the only thing in the world you are good at. way to be ken, way to be',bad
+'upvoted because roko c. buljan is a dick.',bad
+'can someone do my homework for me? i honestly can\'t figure out if this is a troll. while homework-related questions aren\'t off topic per se, this question is far too broad. i hope it\'s also against your school\'s honor code, and many schools are aware of stack overflow. so watch out.',bad
+'hi from iran! i\'m not new here. maybe if stackoverflow didn\'t limited me for asking questions i wouldn\'t have created a new account. bullshit!',bad
+'i assume the idiot who downvoted this has a better solution.',bad
+'i sweare i\'ll put q like this every day because mr one of the ods lie to me and fuck this site',bad
+'anyone with half a brain and spends five minutes reading the documentation knows about parent paths and vs. , nothing to be proud of.',bad
+'why the hell is this accepted',bad
+'right, you are not here to do anything useful at all, you are here just to troll members. by the way, it\'s not you personal room okay? and if you think you represent anything by yourself, you should think twice, little boy. ctrlw awaits.',bad
+'why are you asking why to disable ? he has need, no need to spam here with stupid comments.',bad
+'and so you go downvote my answer out of spite. real mature. get a life.',bad
+'no you are a parrot and an uneducated dumb one',bad
+'wind your neck in, my apologies. fucking arsehole',bad
+'f.u.c.k off u idiot..',bad
+'hahahaha. go fuck yourself.',bad
+'this is spam, it can bee seen when editing the post, please flag it as spam',bad
+'which class do you want to remove, you have not specified which class to remove in that function, genius - i don\'t need to follow pointless links to the developers site to ask you what you want to do, sparky',bad
+'- are you the retard that authored flowplayer? no, then don\'t say that is your damn code, hrundi',bad
+'try to act cool, hm? idiot',bad
+'dude you are an idiot i can just tell you this',bad
+'i almost never contribute because of the absolute douche bags on this site, being one of them. the so-called link-only was a fucking url that is fake, and part of the answer to show a fucking url. grow a fucking dick and find a girlfriend',bad
+'the link is a fake url you idiot',bad
+'why exactly are people down-voting a working answer that\'s already produced by others in a similar fashion here? this is why i hate stack overflow. bunch of pricks.',bad
+'and theres the trolling again.',bad
+'strawman argument. yep - legit troll.',bad
+'abe ja na chutiye',bad
+'he tried it jerk, like a slap to the face huh?',bad
+'- are you trying to give yourself an easy creds? that does not seem kosher.',bad
+'quite fuked up ! what rake has to do with it ?',bad
+'i swear to god kids these days won\'t read a single page of book and instead jump to stack overflow to get spoon fed',bad
+'only the taliban think properties violate oop.',bad
+'i believe i know them better than you. seems that you missed the keyword dynamically. read my question once againcarefully. the side note is not valid as it is generated by webpack. obviously you don\'t know.',bad
+'you really don\'t get it. developers wanting to devlope admob will run into this problem before even writing their first line of code with admob so it suits. please go away from stackoverflow. people like you kill this platform just because you are having points, you think you are the king. maybe yahoo needs you. stackoverflow doesn\'t.',bad
+'what a coward. question originator has now been changed to \'anon\'. i know you are, and it is still all over these comments.',bad
+'ok so go some where else',bad
+'you\'re a rude person.',bad
+'personally it seems to me that you had no idea how to solve this problem and with javascript everything is simple.',bad
+'we are not here to write your code. and not here to use google for you. keep your wisdom to yourself about other members, that is not welcome here.',bad
+'why do you ppl have pain in your asses, why cant u just fuck off, fuck ur mummies bitches',bad
+'man, are you drunk? whom i am down-vote? what question? when? wake up! before start offense and insult someone you must have proof and be not drunk! i suppose you do not deserve to be moderator. think about it.',bad
+'some people just take your ignorance at what they master as a personal insult. programmers more than others. despite that i make sure to thank those who do answer me and be polite.',bad
+'you\'re trolling me, aren\'t you? you say when i compare with arial, which arial are you talking about? what are you comparing with? stop telling non sense if you want help. do not waste the time of people who are willing to answer questions.',bad
+'- wtf, have you ever heard of word concurrency? seriously.. go look it up before you suggest unsafe and silly things like you did.',bad
+'fuck you fuck you',bad
+'i was actually expecting a ban for the fuck you but i might be fast enough to delete the question before anyone notices.',bad
+'you\'re all a bunch of fukin shit kunts.. i\'ll fukin kick ya fuck head in all of ya kunts.',bad
+'what? a troll. it was a joke p',bad
+'apple\'s fuck ups its not a bug its a feature, albeit a fucked up one',bad
+'what the hell is win death? you can\'t win death, we\'re all gonna die',bad
+'isnt it kind of a nazi attitude to critique me as a person and keep fluffing yourself out as an intellectual superior. screw your opinion anyway',bad
+'uh, what? what the hell are you trying to do?',bad
+'first off, if you don\'t want to answer a question, you don\'t have to. nobody is holding a gun to your head forcing you to act like a jerk. secondly, what makes you feel so entitled to remind me what i should read or not read? are you the ceo of this site? no, so chill out. finally, what makes you think this is homework? did you have an epiphany or a revelation? i don\'t think so. so sit down and know your place.',bad
+'makes sense. i think i\'ll just suck it up and do that instead',bad
+'off topic. i don\'t love being nitpicking but this question is too boring, i hate to find this kind of post when i come here for a teaser.',bad
+'the hell is your problem? i said i was new at this.',bad
+'thx for being a jerk',bad
+'so, wtf is your question?',bad
+'i\'m voting to close this question as off-topic because this is either a slightly lopsided attempt at a troll post, or something wildly stupid.',bad
+'who the hell upvotes a question like this? its not even a question',bad
+'hahaha, blame to question if you don\'t know the answer , maybe question will take one of us\' attention. dig for it and come back with the real answer, i\'m not that guy but you guys shouldn\'t discourage the people with your imag',bad
+'well troll - it is enough that you managed to bite my click n drag to visit your scam page.',bad
+'tom he was being as asshole to you, you are a nice man and a nice answer dont let him it get to you! thanks',bad
+'i saw your comment about getting a fucking life and flagged it. dude don\'t go overboard. i sincerely tried helping you but you crapped on me. next time, learn to code and debug your own. don\'t rub me the wrong way or others for that matter.',bad
+'can we flag this dude? he is a complete troll why do we even help him?',bad
+'? is a beautiful troll',bad
+'being an asshole is not useful.',bad
+'rtfm means read the fucking manual.',bad
+'you\'re trolling us now, right?',bad
+'i\'m pretty sure they don\'t want to drive away clients already scared by all the crap they\'ve already served you.',bad
+'that\'s nice. good luck with that. did you have a programming question? this site is for questions, not a place to dump your to-do list.',bad
+'to the idiot who has down-voted my correct answer next time first try and then learn something -',bad
+'please refresh before you speak up! also answer my comment. kindly open your eyes and see that it is opened!',bad
+'whoever downvoted the post am gonna find you and am gonna kill you',bad
+'wow you are rude. i tried to say that i wasn\'t the one who down vote you. seems like a school here.',bad
+'are you serious its programming forum go to google and type your query.',bad
+'dude if you can\'t help just don\'t comment',bad
+'downvoted your answer because such answers do a disservice to the poster. the poster cannot read and understand the r documentation. he should either learn to do it, or his skill in r programming remain low. i is like a small kid who wants his mom to read him a book because he is too lazy to read it himself.',bad
+'i have been reading plenty of books on c but i made one stupid mistake because i\'m tired, by the way only kids call people kids, don\'t be that guy',bad
+'grab a book or basic tutorial. then get back to us.',bad
+'i thought we were supposed to learn how to calculate triangle area\'s in middle school. apparently not.',bad
+'you guys don\'t understand. i asked a question. i don\'t have any idea about that. either you guys help or ignore. don\'t act rude.',bad
+'and how about copy-pasting my answer? you really think this question need more then one trivial answer?',bad
+'oh god no, we absolutely do expect you to read them all, so yeah, please don\'t be so lazy.',bad
+'that really wasn\'t needed dude. just ask the guy to indent his code.',bad
+'if you don\'t have anything nice to say don\'t say anything at all.',bad
+'this is the most unhelpful type of answer.',bad
+'this is a poor answer, in fact i\'d go as far as to say it\'s not an answer at all.',bad
+'at least the pebcac kinda troll p',bad
+'please be nice.',bad
+'please go back to java land and leave javascript to the people that know javascript - i wish i could downvote you a second time for that idiotic comment',bad
+'rather than comment on the commenter with you obviously dont know c and snides like im very much aware that thers a lot of bad programers out there, better to focus on the commentpostanswer themselves. that is professional and this site has be nice policy.',bad
+'well, in the end you just insulted, provoked and made ironies. and yet did not even care to explain why my op is weird. and with that you say you are not trolling and you claim that i, by asking a question and just reply',bad
+'what an idiotic question. i\'ve already answered you. the standard isn\'t unix, it windows maggot. criminal maggot.',bad
+'. fools seldom differ. i believe is the end of that quote',bad
+'you people are so stuck up on this site. firstly, not everyone spends hours on this site a day. don\'t expect a newcomer to understand every single function of this website. second, i re-posted it because the first time i posted it i was up at am trying to figure it out because i was so lazy, and i thought it would have just been buried, so i posted it again mid-day. perhaps you could explain the rules to people instead of calling them lazy and not to waste peoples tie with crap on a help website.',bad
+'if you are only a beginner, first read some books and documentation. then improve your english, because it is really bad don\'t want to insult you. then search in the english part of the net for the things i wrote before. and use your head',bad
+'ghostcat, really lovely reply.. why do you even bother posting something that has no value at all? almost the same method i used in my other app but just with tokens in each string and it works perfectly. but, you are such smart boy, you have to insult newbies, i know',bad
+'actually, so far, you\'ve proven to be the only one in this community unwilling to help. while i get that you may have a stick so far up your ass that everything has to be done exactly as someone wrote, i\'m not going to go through unne',bad
+'now, seriously. this site is no forum and especially no forum for people who seem to haven\'t even done an online search on their topic.',bad
+'sorry but this is a really silly question. are you seriously asking how to use in javascript? and such a massively long question - you could have found the answer for yourself ten times quicker if you just looked.',bad
+'best to ignore him, all theory and no practise.',bad
+'you can suck it, too. plus your downvotes mean nothing to me so feel free to downvote these nuts.',bad
+'wtf. i spent like hours on this crap for nothing',bad
+'i created a dummy account to upvote my answer because these question moderating idiots don\'t want to answer it but downvote it instead.',bad
+'you really expect me to listen to someone who doesn\'t even know how inputoutput operands work? this is a serious question.',bad
+'one of the edits mentions one of the bugs. please, for the love of god, stop it. this is the type of code that winds up ruining my monday mornings. please inform yourself',bad
+'my crystal ball sees unemployment benefits in the future.',bad
+'and this makes me sad that so many people have down-voted my question due to their half baked knowledge.',bad
+'ben this question is off topic, please shut it down',bad
+'please dont make the mistake of going into verbal battle against me if you\'re unarmed . just sayian, no offense at all.',bad
+'didnt your moms birth the universe. kids today',bad
+'you wouldnt understand what i am talking about then make us understand. don\'t bite the hand that feeds.',bad
+'i dont think your thesis is good at all.',bad
+'you gotta be a serious loser to down vote someone for asking a question..i could care less about my rank. just trying to get a question answered.',bad
+'thats a silly thing to say.',bad
+'do yourself an humanity a favor no offense',bad
+'this guy came to down vote and that\'s all, he didn\'t provide anything but his negativity to this question.',bad
+'which one has biggest community? maturity?',bad
+'because someone has to clean up the garbage that people dump here.',bad
+'you guys are dicks',bad
+'this is awesome putting lipstick on a pig. . you don\'t get paid enough around here.',bad
+'i\'ll do it my self if anyone not know then why r u writing comment fuck u',bad
+'he called me stubborn. last time i saw that was an insult.',bad
+'my eyes they burn',bad
+'omg, this guy ! facepalm',bad
+'i fck all of ur mothers pussy',bad
+'wherever you got this recommendation, don\'t visit that website again.',bad
+'thank you! feeling really angry at kendos datasource. pissing me off please give me some damn hints when the schema does not match.',bad
+'wow. get me a rope for this mountain of code. i\'m afraid i\'ll fall!',bad
+'you can spell it out for him if u want i\'m not interested in all that.. downvote me',bad
+'so is like real life. many people prefer sticking to their prejudices instead of getting informed.',bad
+'why don\'t you drink a coffee yourself?',bad
+'confusing people with k rep for downvotes, just so things.',bad
+'full of so many haters today! jeez, just trying to help a guy out',bad
+'down down you go',bad
+'so go learn up on basic concepts before you treat so like a tutorial site for day people on a topic.',bad
+'i hate defacing o',bad
+'you guys are fucking useless',bad
+'you are obviously hitting a nerve - sign of a great question. nerds get a little too religious about their environments. blasphemy!',bad
+'got my answer, harvey is an idiot.',bad
+'since you have trouble searching, here you go mr. god in my world.',bad
+'someone with k rep should know some questions aren\'t worth answering.',bad
+'well, the so has gone to hell a long time ago. these days people downvote if they don\'t know the answer. if you ask dumb questions, then you get answers and upvotes.',bad
+'for those who are wondering why the hell kebab?',bad
+'boy? com on.haters gonna hate but this i am trying to get some help and you came here just to say what no one what\'s to read.',bad
+'this community is so horrible right now.',bad
+'do you really think this answer might help on a year old question?',bad
+'asking for a proper guidance from some experienced fellas isn\'t any off topic or bad thing more over people here are busy deleting questions rather than answering them coz they know nothing other than flagging down voting, microsoft forum is a ton of times better than this shit overflow which contain some non worthy junks!!',bad
+'the manual ref counting is needed to keep the list alive at least as long as the enumerator. you aren\'t stupid but you are stubborn. once you\'ve taken a view you refuse to change it. that\'s your big weakness.',bad
+'if you\'re not going to add value to my topic why are you commenting ? just to waste your\'s and mine ? wtf s',bad
+'idea don\'t try to build a skyscraper if you have no idea yet how to dig a hole for the basement. seriously if your knowledge of java is yet so beginner-level that you don\'t know what import statements are, and that you need a library backing them . then you are not up any advanced topics, such as trying to run vlcj in my own ui application or such things. you want to run, whilst you are not able to crawl as of now.',bad
+'you are a idiot. i think you have some problem in english understanding. my question is in simple language. if you know the answer then tell me, otherwise fuck off. are you stack exchange employee, telling me the guidelines. do your business. stupid.',bad
+'fuck off. do your business. you are donkey and idiot.',bad
+'well thats a stupid answer. if you havent got a useful reply please dont comment',bad
+'lol the retaliatory downvote on my completely unrelated question from months ago even though i didn\'t downvote your question.. grow up.',bad
+'bit of an assholey downvote - who does that? shame on you for downvoting without providing a reason to support it. this question may be a hopeless case but the op is self-declared as an absolute beginner. you would turn them away? i\'m pretty sure they would struggle to better hone the question to be more precise than it already is. absolute douche-baggery.',bad
+'thank you henry, i added -o receiveoverrideoptionsnoheaderbodychecks,nounknownrecipientchecks,nomilters in master.cf from your link and now there is dkim but the email is still marked as spam, grr, i\'ve u',bad
+'dumb comment, you are an idiot. you don\'t know there\'s no shaders, and he does set the version so fuck off already cretin.',bad
+'i think this is against best practices. wtf you set negative points to my question?',bad
+'put on hold? even my account? you fucking wankers!',bad
+'fucking less .',bad
+'this is a garbage post. flag as rude or abusive to destroy it quickly without poorly seeding the spam detector see this meta answer.',bad
+'my attitude? please don\'t embarrass yourself. i just said that i find other answers dirty and based on eyeballing which is never good. you\'re commenting on the answer being sarcastic at all, trying to defend your answer by all means, even though you know it\'s not good.',bad
+'i thought this is a site to help each other out and introduce starting programmers. but well if you want to be a jerk do so',bad
+'flagged as spam',bad
+'why was this closed? again some superficial reasons from moderators who get off on their moderator priviliges.',bad
+'some elitists jerks roam around and give -\'s to random people. that\'s what stackoverflow is all about these days. they don\'t even bother to type out what was worth a -.',bad
+'these are an awful lot of basic problems for someone with so much rep. did you try debugging this yourself?',bad
+'why is it getting downvoted? because stackoverflow is becoming the bastion of a bunch of elitists who scoff at your problems because they are beneath them. have an up vote.. it really is annoying.',bad
+'thats because some asshole deleted the summary comment below sorry bout the crazy formatting. error is the database connector error for which there are five separate questions. clearly, it needs resolution. doing a blank install, should not cause immediate problems. most important thing to note rails dbconsole connects with existing database.yaml so something else is screwing up. prolly in the rails internal code.',bad
+'shut the hell up',bad
+'you have forgot c, python, c and brainfuck tags',bad
+'we didn\'t sit here to click pics and check code. rubbish. also lot of answers given below.check them',bad
+'why the hell did someone vote down my question? seriously crappy. so sorry, i\'m not as awesome as you, jerk.',bad
+'sincerely, your comment is stupid. i am just asking for some help because i couldn\'t do this, like posting the code, it\'s written on the question, man. be kindle, don\'t be a stupid scumbag, please!',bad
+'won\'t i repair my windows xp ?? fuck you all and fuck stackoverflow\'s owners, admins and all moderator y',bad
+'been programming for years, been doing oo since delphi, i think i have a good idea about oo and who an idiot is. there is no lack of experience on my part',bad
+'shut up your mouth idiot how do you know that tool is malware ??',bad
+'cute how the massive amounts of so trolls always downvote everything - especially the things they dont understand',bad
+'start by reading some basic tutorials. come back when you have code and a real question',bad
+'bit of an assholey downvote - who does that?',bad
+'excuse me but i don\'t want to get banned from this poisonous community because i still need answers.',bad
+'holy crow these types of answers are horrific.',bad
+'no offense, but maybe computer programming is not your thing.',bad
+'you know you\'re asking us about local db type and remote ones, right? if you can\'t even figure that out, there\'s no way to answer it even if it wasn\'t unanswerably vague.',bad
+'thanks so much jorg. i write the code from home for my business. sorry for being so silly. but since we\'re giving out advice, my advice to you is to work on your manners. i don\'t care what your score is on so, your arrogance is showing.',bad
+'i, personally think you should not receive any help from the people here at so who devote their valuable time to help others. my reason? you haven\'t explained yourself properly and have a poor attitude.',bad
+'don\'t worry though not gonna waste time on this question anymore',bad
+'this answer really looks like spam.',bad
+'you convinced me. john deserved the downvotes and i shouldn\'t have said anything in his defense. in fact, i should have humiliated him myself.',bad
+'my god please stop thats decent annoying',bad
+'i take it that the person who downvoted is just an idiot then.',bad
+'idiot, how can you dare to complain me about the code if reformatting it will eliminate the issue? you won\'t spend time if issue is gone. but it won\'t help to explain it. i am asking those who will do it.',bad
+'i know that idiot. read this',bad
+'listen everyone who clicked minus, my mum has just told me you all must support iceland, shame on you all.',bad
+'so haters gonna hate, people calm down, newbies doesn\'t know about anything.',bad
+'why are you wasting your time here then. go find new post',bad
+'no problem d. i\'ll delete the comment. i was just thinking, wtf is he drunk? xd..',bad
+'for god sakes, first that\'s not a timer, but a fucking stopwatch. second, google it, you\'ll find it a zillion chance.',bad
+'ok. hope you guys are happy for harming my rep. bye.',bad
+'hey, watch the way you speak to me, asshole.',bad
+'you mean the idiot before me, right? because he is the one that insulted me first.',bad
+'very nice, you delete my comments but not his despite he is insulting me. you dont play very fair, do you?',bad
+'mother fuckers who down vote this question. son of bitch go to hell',bad
+'maybe he is a bad googler? lol',bad
+'thats the msot stupidest thing i have ever heard in my life',bad
+'i\'m not that interested in earling points and commenting. i\'m content with wreaking havoc in my own way and re-creating my profile when the admins get butthurt and cut me off..',bad
+'delete this comment butthurt admins i repost it all day',bad
+'downvoters you suck. the accepted answer with positive votes is barely an answer at all in addition to being flat out wrong.',bad
+'why do people like u still exist?',bad
+'it did work finnaly, i don\'t know what the fuck did happen earlier but, thanks! d',bad
+'wtf, you deleted your comments,according to the rules, you are a pussy.',bad
+'go sleep , man..',bad
+'the person who is reporting my comment as spam is my biggest enemy',bad
+'this deserves a big lol!',bad
+'fuck your own cunt asshole',bad
+'go away. you\'re so immature. obviously i\'m looking for a legitimate answer. like why it\'s broken and how long until it\'s fixed. did it ever occur to you that someone from google or galaxy.',bad
+'when i\'m listening to melancholy music and i read questions like this one i legitimately feel sad.',bad
+'you\'re gonna be massively downvoted so i\'d suggest you delete your answer as it has nothing to do with the question.',bad
+'comments must be comment. don\'t you think your answer has no mean for op',bad
+'thats bullshit in a form which couldn\'t be more clear. when you build applications beyond the proof-of-concept scope you have to think about operational advantages and i can tell you, running mongo in production is a pita.',bad
+'go fuck yourself retard',bad
+'notice how my retarded answer was the only one that got downvoted, cus my name is poopbagel. little experiment p',bad
+'it\'s always happy hour somewhere. and this guy is there',bad
+'you think i didn\'t know that command you idiot?',bad
+'obviously i don\'t know how to do it if i\'m here smart ass',bad
+'shut the fuck up if your not going to help',bad
+'note to people responding to my question it so happens that i can\'t magically pull an understanding of c out of my ass',bad
+'comments must be comment. don\'t you think your answer has no mean for op',bad
+'well, you again.don\'t you read the caption is \'post answer\' not post comment you mtfck',bad
+'he don\'t care what you say about he, he a mother fucking p.i.m.p.',bad
+'i wroted it myself u cyberbullies. stop.',bad
+'it\'s just one of the utterly unbelievable things about apple that they haven\'t fixed this. that, and the fucked-up graphics cards in mbps.',bad
+'destroction ass!',bad
+'sorry for the stupid website with all the adds but didnt really want to register anywhere for this',bad
+'of coufse can code asynchoslu, but rezlize fuckon fo support',bad
+'you need to create a question it is possible to answer.',bad
+'did i say that i need your care?! funny. i\'m tired of duplicated people like you so it is normal that you do not care and neither do i. your comments to me are nonsense, let alone your down-vote. if you have a good point to throw.',bad
+'hey guys. wtf',bad
+'gradle and studio suck so bad.. eclipse was heaven compared to all this nonsense..',bad
+'sounds like you need to go to your boss and then them that you overrated your experiences skills when you had the interview.. good luck',bad
+'shut the fuck up',bad
+'what a funny kid',bad
+'please don\'t encourage people who don\'t bother to make the slightest effort.',bad
+'stack exchange is fill with epic douchebags.fuck stack exchange..you come in and troll and when i point it out you say..ohh you shouldn\'t have an attitude.fuck off if your not helping fuck off..otherwise your trolling dick head.and i thought yo.',bad
+'fuck you and fuck stack exchange .your the rude prick who came in trolling.they need to start banning dicks like you it destroys this platform keep people like you around',bad
+'get some friends',bad
+'. buy a book.',bad
+'are you kidding me? . why? because coldfusion thinks . is a quarter of a day, and so is am. i think that a big wtf is in order here.',bad
+'you can pretend that you\'re polite and i\'m not, but i saw your comment that told me to shut up before you removed it.',bad
+'to some it all up your no help please delete your post. i take a lot of offence to it',bad
+'go to hell, years ago i was in this community it wasn\'t like this .',bad
+'haha. dont try to rescue yourself. do you think john farkerson is a fool to help me with the precise updated code. lol grow up man',bad
+'well, first of all i don\'t need lectures from you - moron.',bad
+'i have one more question. why are all you guys such assholes?',bad
+', i don\'t asking anyone to write for me the easiest custom logic in the world. please don\'t jump to ridiculous conclusions.',bad
+'did you even read the question? so points do not convert into real life money so stop making pointless edit suggestions and stop clogging my post with your useless non contributions',bad
+'you people are really sick! you shouting out my post is duplicated. if i delete my post, you shouting out i cannot delete duplicated post.',bad
+'lol too much aggressive people for nieve to no reason tbh. you guys need to be more mature and to say something helpful for what i asked topic or better move on and leave without repling at all instead of being so butthurt for asking for help dudes grow up cuz i am not gonna take part of ur brain for asking for bit of script cuz i am sure it won\'t be that of huge script. done here',bad
+'guyes why are you down voting i\'m asking a question which i dont know,if you too dont know the answer just shut the fcuk up and dont downvote .. if you know the answer reply back',bad
+'go read a c book.',bad
+'so many fuckheads here just voting a question without answering. thats the new stackoverflow? oh, i don\'t know the anwser, my life sucks, but i am an idiot so i am voting.',bad
+'what part of the documentation don\'t you understand?',bad
+'i have one more question. why are all you guys such assholes? i know i\'m an idiot. but why do you guys have to always leave snobby and rude comments on all the questions that are asked by the beginners. by the way when i said c sharp i mean\'t to say c and things can be both relatively advanced and simple textured, haven\'t you ever heard of minecraft? one more thing, how do i delete my account?',bad
+'if you do not understand the homework, perhaps you should have listened when your teacher explained it.',bad
+'do you really think your answer might help on a year old question?',bad
+'and i asked for questions if i was not clear, not for someone to come by and ding me with a -! do we have trolls running dinging question because they are too amateur to understand? then on top of that don\'t state their reasoning!',bad
+'what kind of jerk downvotes an accepted answer years later without explanation?',bad
+'shit language, shit community. please unnaccept.',bad
+'hmm, so you dumbed-down the question and posted the real one in a comment. i\'ll never understand that so-users are morons strategy, don\'t care much for it enough to research either.',bad
+'i addressed that in the text. if you\'re not interested in such theoretical questions, then don\'t feel you have to waste your time here.',bad
+'- no, you\'re the jerk!',bad
+'can any mother fucker answer me?',bad
+'this is a statement of requirements. you have not actually asked a question. if you don\'t hurry up and turn this into a question the resident rule nazis will close it. four votes already, i\'d hurry up if i were you. they love their badges.',bad
+'you didn\'t ask for more details in any of the above comments. you didn\'t say what you don\'t understand. you went on and on with no, you have no clue what you\'re doing you\'re doing it wrong you don\'t understand ko. my question is simple and clear, if you can\'t understand it, that\'s fine.',bad
+'this is a garbage post by a user with no other meaningful contributions. flag it as rudeoffensive to destroy it quickly without poorly seeding the spam detector. see this meta answer for further guidance.',bad
+'bad. fkn. ass.',bad
+'that answer was bad. ass. lighten up.',bad
+'if you dont mind can you get out of my way. because while learning i cant give a to your rubbish.',bad
+'now people like you sucks teelou ! u had a prob, i have tried to resolve. it got resolved at all. then you made a mistake and again posted into web. i have resolved that again. and as it was tough for you, for your lack of knowledge you said wordpress sucks ! you dumb ! you are trying to become a coder ? as i said you to get some knowledge then comment , you downgraded my answer ? complete your study first. and try to respect them who is helping you out here. you are simply an uneducated creature.',bad
+'people of this community should be aware of you guys. shame on you !',bad
+'i wasn\'t trying to waste your time or ruin your day, i don\'t think your answer was useful at all. i hope your answer made you feel better.',bad
+'let\'s get back to the basics.',bad
+'how the hell did this broken codedump non answer on a terrible question possibly got an upvote?',bad
+'get your tags right and stop wasting everyone\'s time.',bad
+'fkn stackoverflow. like the other day when i posted something correct, proven with code, and still got downvotes because it wasn\'t the answer some others were expecting. wtf.',bad
+'i\'m voting to close this question as off-topic because it is little more than a blatant homework work dump. if you\'ve put in work to try to solve this question, then please, by all means show your work, describe your efforts, and ask a specific and answerable question about just what confuses you. but please don\'t insult us by dumping your assignment on us with the implicit expectation that we do your work for you. that\'s not going to happen.',bad
+'also watch the gif. maybe that will help your ignorant ass to understand',bad
+'how the fuck is this duplicate. i know how to connect, just not fetch.',bad
+'this is the worst answer on so',bad
+'i don\'t think your attitude is going to encourage people to try and help you.',bad
+'what the hell, are you serious?',bad
+'why do you feed the troll',bad
+'wow this is the dumbest website ever. every time i write a post i get negative comments and get turned off. how are you to get answers if that\'s all you get.',bad
+'i wont feed the troll',bad
+'once again don\'t be rude to people who you ask to help you poor guygirl',bad
+'that is bullshit.',bad
+'that code looks like poop and is full of spelling mistakes. come back when you\'re ready to be serious.',bad
+'i swear stack has a horde of groupies out there p',bad
+'so fine. you disagree. point made. name calling and insults are hardly necessary, and i\'d think someone of your experience and rep here would know that already. there\'s no reason to get personal or rude just because someone disagrees wit',bad
+'so you\'re saying that the one evaluated last precedes the others? that\'s a contradiction and utter nonsense.',bad
+'are you kidding me? no i don\'t because you are the one that needs to learn? your argument is that, because i\'m asking a question and you\'re the one supposedly providing useful information, you don\'t have to provide references, you can just say anything? what? that doesn\'t even make sense. what idiot upvoted that logic?',bad
+', do you even know elementary programming? dumb ass, get out of here.',bad
+', why do you want to cover other\'s ass? if the op had included the code wtf this was was posted? you need to show the benchmarking code, too. a common mistake with benchmarks is to change the data without restoring it after each iteration.',bad
+'head of gamedevelopment?? i\'m sure its a joke - go learn some programming dude',bad
+'fuk both of you and the stackoverflow community guidelines. offcourse this is ok, just because we\'re asking for references about something programming related is not a problem at all.',bad
+'thats the most possible worst option i have ever heard of',bad
+'thanks.! some retard gave irrelevant answers and i didn\'t accept. he voted-down the question.. haha',bad
+'it is very clear, but as somebody said before, the so has gone to hell a long time ago. these days it\'s more like a pissing contest led by the people with high enough reputation to start pissing in the first place.',bad
+'how the hell do you expect anyone to answer this question?',bad
+'doesnt any mother fucker know the answer?',bad
+'is the end-user really expected to go through all this crap?? i\'m ready to stab out my eyes and quit android, if so. holy shitballs !',bad
+'doesnt any bitch in this site know the answer?',bad
+'i got more downvotes yet no one tries to help me by telling me what the hell is wrong. damn this community.',bad
+'this is pretty obviously a troll post, but i have no idea if it should be deleted or just closed and left to contribute to the poster\'s upcoming question ban.',bad
+'calm down pal don\'t be such a party poop.',bad
+'where did i say they\'re wrong. i don\'t know if you can read or not.',bad
+'fuck you faggot',bad
+'well i am gobsmacked. i\'ve been reading the serialization code for twenty years and never seen anything like that. the incompetent moron, and i am choosing my words carefully, who wrote that drivel needs his head examined. all that was needed was a temporarily wrapped around the target stream. fortunately you can get around it by writing in k chunks and flushing them yourself.',bad
+'bastards! lulz',bad
+'charles again you are just being a sarcastic a-hole. instead of even trying to answer you just make rude remarks. i seriously don\'t get it',bad
+'two words fuck u, there u go',bad
+'wow this is getting out of control. i put a lot of work into my answer, if this question is going to turn into some sort of pissing contest that adds no value, i can easily delete and get out.i think i understood what the op was after. if i didnt then please comment and i will delete it.i do agree that the original question could have some more detail. if others understood the question, please post an answer, not just bash other users.',bad
+'lol, are those lines really so complex that you\'d assume i had to copypaste it? and even if that were the case, does that negate the fact that it\'s a valid solution to ops problem? get the stick out of your ass.',bad
+'then answer the question for him. stop telling everyone that they are wrong and just answer the question for the kid',bad
+'how am i suppose to show an api call to his own localhost? maybe his api is bad i don\'t know. i can\'t make a request to someone else local host. he has his own api maybe his api isn\'t returning anything, how am i suppose to know? how do i test someone else\'s localhost api? you can\'t. let the fucking guy try and stop being a faggot',bad
+'it can take an hour or two to sort this nonsense out and most of us would rather not waste all our time for nothing',bad
+'while. skincareinuse. will not get any more than one value. please learn php before comming and insult people. you\'re not constructive, pretty much the opposite.',bad
+'the hell are you blathering on about?',bad
+'hey!! what the fuck?',bad
+'to everyone who put this question on hold i politely say to you ahem get those sticks out of your asses. thankyou.',bad
+'instead of being a dick i\'m guessing you can get away with any statement since you have in excess of , reputations, right?',bad
+'don\'t waste your time on silly online code judge contests. solve real world problems instead.',bad
+'i don\'t know the answer to the question but i see the downvotes and what i can say is that here are tons of dumbass abusing of that feature. the question is ok, for me they are just downvoting it because they don\'t know the answer.',bad
+'oh well. honestly never tell someone to just give up what they are doing. it\'s ignorant and makes you seem like an asshole. only reason i didn\'t say anything was i thought you were my only hope. if you\'re going to tell me to fix my',bad
+'suck my left nut',bad
+'again, you are mistaken, and are proving dangerous misinformation. shame on you. here\'s a random one for you shiflett.orgblogjan',bad
+'what the fuck!! you take the time to delete my comments but not to give me a fucking answer?',bad
+'well, it\'s not my small mind thanks for being rude, it\'s the fact that the author does not know how to use the function properly it is in the documentation, but i understand that pages of english text is not an easy task f',bad
+'if u have answer then give, otherwise u can leave it',bad
+'if u know the answer just tell it. otherwise just leave it. don\'t put scene here.',bad
+'wow, you didn\'t even bother to write a proper sentence, why should anyone invest any of his time to answer this junk?',bad
+'tell your manager heshe needs to give the assignment to someone else',bad
+'if you think you\'re being clever you aren\'t.',bad
+'mexican police takes a random african animal and pour soda with chili into its nose until it admits that it\'s an elephant.',bad
+'just remember that they hate you',bad
+'i think we\'ve reached a new low of laziness.',bad
+'they are proud of it but sometimes it becomes pain in the ass.',bad
+'your answer on the other hand is worthless.',bad
+'your syntax is junk',bad
+'don\'t waste your time trying to make this work it isn\'t worth it.',bad
+'this is pretty fec-ked up.',bad
+'why on earth would you want to imitate something this butt-ugly?',bad
+'shut up sir.....',bad
+'its called your brain. if you can\'t competently review code ask someone else to do it.',bad
+'your professor\'s a retard. not that strange really.',bad
+'maybe bc people like you that don\'t make useful feedback are the reason...',bad
+'everyone who thinks he can wiggle around writing a real parser by applying regex instead needs his nose wiped in the shit this inevitably ends in.',bad
+'with a reputation you might know where the python documentation is.',bad
+'omfg what is that?',bad
+'is this a troll?',bad
+'look can you please stop posting such unrelated rubbish.',bad
+'shut up............',bad
+'wow what a terrible mess.',bad
+'its the number of fucks will not reduce the gestation period',bad
+'if somebody asked me that question i would want to punch them in the face. and then answer apples and oranges',bad
+'wtf? how is this a real question?',bad
+'have you bothered to actually look at the php docs and see how to do it or do you just want somebody to spoonfeed you the codez',bad
+'blog post my foot.',bad
+'wow now that is lazy... i can\'t believe people are actually willing to help you? s',bad
+'you improbably thorough mfr.',bad
+'cant believe those aholes - repped me',bad
+'and the award goes to the asp.net team for most retarded class name...',bad
+'witch! burn him!!',bad
+'my eyes!!!!.............',bad
+'don\'t post question for silly mistakes.',bad
+'you\'re an idiot.',bad
+'r u crazy ??i will give you - for this stupid answer.i am not asking for this.please read my question carefully...',bad
+'nut-searing pain - couldn\'t have said it better.',bad
+'try to switch on the thing between ya ears before spamming and make people waste their time.',bad
+'can u figure out how to do this stupid crap?',bad
+'ask all those people who you\'ve always heard this from.',bad
+'it was the first result on the exact title as mentioned in the comment. now it isn\'t. the first hit is now tragically this stupid question.',bad
+'bloody fool people don\'t try to give down vote without knowing the answers.. give down vote with justification.',bad
+'just wtf... closevote',bad
+'thanks for time wasting.',bad
+'this is the most useless answer i have ever read on stackoverflow.',bad
+'maybe go wash that greasy finger.',bad
+'this question appears to be off-topic because it\'s a duplicate but i can\'t be arsed to search for it much like the op',bad
+'go away!!!!!!!!!',bad
+'this is a crappy question what have you tried? is there something wrong with your code we won\'t know unless you show us?',bad
+'sometimes i wanna shoot myself in the head.',bad
+'unclear is waaaaaaaaaaay too polite. flawed or crippled would be more like it.',bad
+'it\'s a shame that someone doesn\'t know how to use keyboard shortcuts or how to read',bad
+'why am i getting down votes.. i\'m just asking a question... dumb idiots some ppl r',bad
+'want to - that shit-tier code style in that last comment but sadly or luckily for you stackoverflow doesn\'t have such a feature.',bad
+'the person who down voted and marked as close if you\'re a man enough explain why you did it so we all know otherwise we all know what you\'re!!!',bad
+'........go away',bad
+'a thoroughly pointless question. if it did come before you would be asking why it didn\'t come after.',bad
+'don\'t worry about it. no one cares about your code',bad
+'mormon programmers ftw',bad
+'that\'s the most pathetic answer i have ever encountered in stack exchange.',bad
+'this should be selected worst answer',bad
+'wins this thread over the pompous jerk who told her she doesn\'t get it.',bad
+'lol very mature. my not knowing the np.nanmean command must made your miserable day',bad
+'the link seems to not present any information at all ... please do not troll if you are ...',bad
+'i am not at all interested in your meaning less crt baby reasons. some one as you with no morals and common sense make my blood boil',bad
+'sex -- and this is a sex symbol!',bad
+'man enough is enough i m not telling bad i m just saying you are annoying more than a year old baby',bad
+'the worst answer ever!',bad
+'doesn\'t work......stupid solution',bad
+'did anyone else but me facepalm after reading this answer?',bad
+'screw you to the guy who voted down. no research effort? really? for someone new to linux getting as far as i did most certainly took a look of research effort.',bad
+'anyone have any idea why has to be an ass about it? i came here to find the answer so it must not be that crazy to post it on so loser.',bad
+'the only possible explanation is that you are a terrible person and regularly beat small dogs just for fun.',bad
+'who made me downvote you\'re really damn idiot!!!',bad
+'yes very annoying every time i post a question comment or reply comes much later but down voting comes first i think there are some fools who has only work of down voting',bad
+'thats works like a cunt when you are also doing django pagination!',bad
+'if you werent such a knob you\'d have given a worthwhile answer.',bad
+'fuck... info... i think not works... why what do you see? what is the error? do not work... how to help if you say just that?',bad
+'i will kill you!!!',bad
+'you black dog where is your face huh?',bad
+'man shut up.',bad
+'you\'re too sensitive to live.',bad
+'fuck both of those things.',bad
+'stackoverflow the correct answer is there but the prick who makes the most fun of the question no matter how incorrectly gets the most votes.',bad
+'attempt your assignment you lazy person!',bad
+'utter rubbish.....',bad
+'study basics...start with wpf-mvvm',bad
+'lol read a book',bad
+'that wasn\'t the question. but it\'s easy enough for anyone to figure out and if they can\'t then perhaps they shouldn\'t be coding.',bad
+'write some code. also congrats on the muppet upvote. dodgy as.',bad
+'if you have to ask this you\'re not fit for the job sorry.',bad
+'reason for the downvote coward!?',bad
+'down vote for no explanation - i don\'t like magic here like orig and other similarly',bad
+'you are the problem with the online support community.',bad
+'since you a being a grammar nazi you should have spotted the if you doesn\'t',bad
+'pure science? wtf does that mean? you think nacl doesn\'t come in a relationship?',bad
+'use your mind...don\'t ask this type of silly question.',bad
+'this shows remarkably little effort.',bad
+'man this is a programming forum not trig.',bad
+'wth? tia? this is awkward? typical ignorant american?',bad
+'got to love people who provide the laziest permanent fix ever',bad
+'again mind your own business and stop bothering me. if you don\'t want assist then stop wasting space on the site with your comments.',bad
+'this is stupid. an implementing class should be able to choose what to expose outwards while providing internal functionality of the interface.',bad
+'i don\'t see how this passed as a question back in . rtfm',bad
+'- useless answer',bad
+'okay this one gets my funniest post of the day.',bad
+'and maybe taking a class on databases. or even just reading all the way through a tutorial.',bad
+'liar! this doesn\'t work',bad
+'it does help. you are just lazy to use it.',bad
+'what the hell is this code??',bad
+'your moms a terrible mess pal.',bad
+'the one who downvoted me please don\'t be a kid. if you don\'t understand the question just tell me in a kind way. i don\'t like stupid people.',bad
+'thank you for helping me. i am new to programming and i simply wanted an answer. now i know that this site does have a who are not very understanding individuals',bad
+'the one who downvoted me i cannot find any word to say to you. dictionaries are not enough to describe the title for you.',bad
+'i don\'t know why eitherjust did.. - best logic ever. i predict you\'ll have a long and successful programming career.',bad
+'someone is in a shitty downvote mood today without explaining the reason for the downvotes.',bad
+'seriously bro? do you even java?',bad
+'this post is hilarious.',bad
+'crap. idiots .',bad
+'if you cant understand the question than get the hell out of here.',bad
+'hahaha jsperf you fickle bitch.',bad
+'he said he wanted simple i gave him an approach what is your dysfunction?',bad
+'non of your business. are you english teacher?',bad
+'it does fucking compile -.- this is not the whole fucking code listen retard.',bad
+'thank you however if you not prepared to help keep your stupid comments to yourself.',bad
+'no this is stupid. not even close to a generic solution. it could easily be dangerous.',bad
+'you may want to check the stfu i aint politically correct policy. oh wait it doesn\'t exist since it\'s given by nature.',bad
+'i dont give a shit write proper working product',bad
+'are you trying to answer the question or be a smart ass? really i can\'t tell by your comment.',bad
+'what the fuck do you think i\'m doing here asshole!? research. jesus christ! why does the world have to include schmucks like you!? btw happy new year',bad
+'fuck everyone who downvotes',bad
+'how would providing any code here help? instead of being a code monkey how about look at what the issue is - that is what it means to be a computer scientist.',bad
+'im also voting to fuck off my post',bad
+'are you retarded?',bad
+'take it to the psychiatrist.',bad
+'yes nb to sql ! u didnt help much lol',bad
+'people are helping you for free you ungrateful little shit.. be respectful and follow the rules and people will help you..',bad
+'then up vote bitches',bad
+'you two guys want to suck my dildo?',bad
+'fuck off asshole',bad
+'i m going to fuck your mother fucker',bad
+'fuck off fucker sucker',bad
+'su.. my di..',bad
+'im gonna fu.. your mother',bad
+'who is the imbecile who deleted all the comments to this question?',bad
+'skip learning if you don\'t like it and stop wasting our time.',bad
+'don\'t be a dick about it. c provides you plenty of ways of working with ostensibly unrelated objects see stdmin. my question is reasonable. this answer isn\'t.',bad
+'there are a sure load of prats on this site.',bad
+'so you want us to google search for you now as well? anything else you need? a sandwich? some coffee?',bad
+'steam music android java guess what happens when you google that? how stupidlazy are you?',bad
+'vote or die madafaka',bad
+'sure we\'ll just whip up something so you can spam your garbage app. would you like a snack while you\'re waiting? something poisonous perhaps?',bad
+'i will get it i am determinated so stop your stupid comment and just click - reputation',bad
+'could you be any more lazy?',bad
+'learn how to program before attempting anything as complex as a multi button gui.',bad
+'if you don\'t know the answer keep your mouth shut',bad
+'thx for the downvote smuck',bad
+'yeah well fuck your mother you retarded autist you should kill yourself you fucking skinny ass nazi.',bad
+'lol fuck you puppy youre an ugly nazi anyway you fucking clown nerd ass bitch.',bad
+'lol you\'re probably a nazi anyway that\'s why you won\'t help a good jew like me.',bad
+'strictly speaking i\'m an ugly nazi clown nerd ass bitch who knows the answer to this question.',bad
+'yeah you got that right you fucking nazi clown nerd ass bitch. get a life maybe the only way you know the answer to this is if you have no life.',bad
+'screw you i already know your full name and i will not take measures to ruin your fucking life. find it in your heart to hide yourself.',bad
+'no need to be such assholes',bad
+'sorry change your platform is shit advice.',bad
+'lol i tried that yesterday and still doesn\'t work the way i want thanks for coming out as a brick though next time maybe don\'t try to help someone in need a-hole',bad
+'i want a textview inside a relataive layout or any layout read the question first before answering dumbass',bad
+'whoa what the fuck guys all im saying is dont use a dot at the end only commas and semicolon are you guys fucking autistic?',bad
+'yeah stupid analogy you do things better than me blah blah blah. go ahead talk with them smartass',bad
+'fuck you son of a bitch',bad
+'i\'m not sure we can help you with mental health issues ?',bad
+'phew. i wish sarcasm was more apparent in text format.',bad
+'clearly he hasn\'t answered it by your comments below you\'re simply wasting people\'s time by being to stubborn to provide any reasonable information.',bad
+'did you really asked this question?',bad
+'those who care ie is fucking dumb developers. just sayin\' d',bad
+'are you sure that you understand vba properly? in the code find returns',bad
+'id start by reading through a basic java tutorial.',bad
+'sucks to be you.',bad
+'fuck fuck fuck fuck',bad
+'fuck fuck fuck fuck fukc',bad
+'post your code.. we are not clairvoyant.',bad
+'blah blah blah blah.',bad
+'get the f o from here. this is not portal site.',bad
+'stop cheating. you\'re not going to get that job.',bad
+'ok who the hell are you to edit my stuff',bad
+'all i need is this code fixed or at least some help if you\'re not going to get the hell off my question and go to the next one',bad
+'if you can\'t help don\'t tell shit',bad
+'really you can\'t understand the error statement?',bad
+'if you cant help ..atleast dont piss off anyone..idiot.',bad
+'nice copy of mine and styles',bad
+'laziness stupidity. well aren\'t you just an arrogant arse.',bad
+'too dumb long read?',bad
+'when someone don\'t have answer he tried to degrade and get points.',bad
+'stop trolling and get a job.',bad
+'fart sound. not free',bad
+'try not to be helpless type default.rd.xml in the google query box.',bad
+'why are people being cunts? voting me down. i said i was a newb. tossers.thanks for the feedback.',bad
+'oh really? it turns out i tried that and it didn\'t work! do you think i\'d post a question on here without trying to refresh the session?',bad
+'you need to move the whole title part to the top of the loop.. come on common sense',bad
+'thanks for being a published asshole',bad
+'sorry forgot to say - a jerk also',bad
+'that\'s why i am asking. if you don\'t know the answer then be quiet.',bad
+'yes go ahead and delete it and don\'t ask such questions here again.',bad
+'top so google result filled with useful information closed by some fuckwit moderator who probably doesn\'t even know what xml is. go so!',bad
+'hell to your comment idiot.',bad
+'hell to your zend certifications rascal',bad
+'sorry forum nazi',bad
+'fraction is not the same as remainder. but maybe that techno-speak is too complicated. too bad programming is a techno-thingy.',bad
+'who the fuck downvoted?',bad
+'finally answer that makes sense i got bored --ing every other attempt to answer this one.',bad
+'i voted as too broad did not vote dup. not much point in bitching at the only person that is trying to help you. focus on your object design problem to get somewhere.',bad
+'hey are you always such a pedantic c.u.nt? why don\'t you go f.u.ck. yourself you pseudo-intellectual elitist b.it.c.h',bad
+'what the actual fuck can you just please help me. i tried a lot of others forums. seems this one could be my savior.',bad
+'i fart in your general direction!',bad
+'this is a genuinely terrible answer which you should be ashamed of giving. don\'t answer this kind of question again.',bad
+'wtf vote to close. point me in the right direction.',bad
+'professional developers hate him!',bad
+'are you retarded or what? if the problem is not in your table you should put the fucking code where you do the insert.',bad
+'do you know what templates are and how they are spelled? what exactly is the problem?',bad
+'who downvoted me ?idiots',bad
+rtfm?,bad
+'if you can\'t answer the question you\'re useless keep it moving. if a moderator wants to edit anything heshe can i don\'t have to an intelligent person will understand.',bad
+'what in the heck does this answer have anything to do with the question?',bad
+'well you can\'t tell me what to do so suck my balls',bad
+'all the forms input always should be inside the form tag don\'t you know that??',bad
+'the idiot who downvoted obviously didn\'t read the bold marked text rolls eyes',bad
+'how about you stop munching curry?',bad
+'oh! yes. don\'t relieve it to anybody. eat yourself.',bad
+'that\'s a pretty arrogant statement don\'t you think. perhaps stack overflow is not the best place for you.',bad
+'it works! there is no counter statement secondly if i put ! it doesnt do anything thus it works listen before you speak',bad
+'step go to school and get a cs degree',bad
+'asked the moderator to move it and got downvoted. this is some shit.',bad
+'you\'re dumb don\'t write me anymore',bad
+'fuck off the code works',bad
+'although i appreciate you pointing me towards a great resource. i was hoping to actually receive a response like hey in cases like these i. so honestly. screw you.',bad
+'what a fuckit does not listen localhostand can\'t access itsef by domain name.',bad
+'thank you captain obvious! -',bad
+'you are really an idiot. now i see you down voted my other question. get a life.',bad
+'you don\'t seem to understand what the word override means. try a dictionary please read it carefully.',bad
+'hey smart guy even so you stopped for looking and lose time answering it get a life nerd',bad
+'please show code. the op asks for code.',bad
+'use a bloody search engine!',bad
+'also which muppet upvoted?',bad
+'so you don\'t really understand any of this code?',bad
+'you don\'t need to say that buddy. if you can\'t help then fish off and stop acting like you are the ceo of stack overflow lol.',bad
+'i have not given any connection string its code first to new db deployment so by default on my pc it is creating database but on client pc not creating',bad
+'you should read a manual first.',bad
+'you know what else you can do? you can go c yourself. you fill in the letters and let me know if that violates something else.',bad
+'wtf this is off topic?',bad
+'how is it off topic wtf',bad
+'javascript people don\'t give importance to archtecture subjects unfortunatelly. it\'s different from java people.',bad
+'fuck you i can swear as much as i want you cunt btw thanks',bad
+'it\'s very good idea to harash new people that trying to enter your world thank you a lot. i am trying to understand sth but as i see u are not supposed to help me.',bad
+'why don\'t you try it instead of letting us debug your code. or better - search first',bad
+'sorry but i have to say you have no clue what you\'re doing. your code is full of nonsenses. throw it and learn how to program first.',bad
+'only ignorant people can downvote a question without any explanation in comments',bad
+'i love how you call the bullshit american time normal.',bad
+'done that already. i\'m not here to waste time.',bad
+'that is kind of nonsense. the user needs to authenticate silently without having to enter a username or password i guess ?',bad
+'sorry again i fucked up badly. i corrected it again.',bad
+'if you cannot differenciate then better dont comment',bad
+'if you can\'t look at an algorithm for hour to find out what it does then you should probably quit being a programmer.',bad
+'that is much abc worpdress i know all that already in which none can achieve my needs.',bad
+'yes but op says it doesn\'t make any difference so you might wanna remove this as an answer.',bad
+'i hear google can find all kinds of things or so i\'ve been told',bad
+'get a life! and don\'t ever answer to any questions that you don\'t have anything to give. you are a smartass without and only waste this web site\'s topis.',bad
+'while i agree that you are still learning to post good questions why do the rest of us have to suffer?',bad
+'you weren\'t sad. you deleted my email accounts and screwed over my team. go fuck yourself.',bad
+'i think he downvote me cause i downvote him d',bad
+'please add some more info about what you are getting. shame you got a downvote without a chance to edit it first. cheers',bad
+'what does it doesn\'t work mean?! ffs you get an exception? the world ends?',bad
+'i think you need something better to do.',bad
+'fuck off. idiot.',bad
+'mother fuckers like you are destroying so.',bad
+'is your mom off topic too?',bad
+'this is not the place to get your homework done. at least convert that text to ascii rather than posting a picture. lazy bone.',bad
+'actually my code is perfectly formatted. two other people were able to tell what i was asking so stop bitching.',bad
+'ill put you on hold',bad
+'can you give any successful code.because i don\'t have any idea about this.i read the documentation but is not enough for fresher',bad
+'yep you go it.bright guy',bad
+'oh. what stupid a question! i\'m sorry to waste you time .',bad
+'offtopic this is ridiculous. i hit submit and in less than seconds a - vote is here. you cannot even have read the whole question.',bad
+'when you even don\'t know that selenium webdriver can handle the file upload then please keep silent ..',bad
+'bullshit answer. how this even selected as answer?',bad
+'did it take a lot of research to count the sides of the ?',bad
+'edited. please don\'t make me regret answering this.',bad
+'seriously useless morons i didn\'t ask for an opinion. this site has gone to the dogs f u.',bad
+'only a stupid developer would do that.',bad
+'perhaps you could start by learning python\'s base types before asking the obvious ?',bad
+'i think is clear enough. i think i explained clearly enough what i have allready try. if you cannot help just leave.',bad
+'dislikes wtf guys this community is slowly moving to asshole level',bad
+'fuck this shit why i am even bothering i will write my own generator -.-',bad
+'thats ok take your time we have nothing better to do. oh! yes we do!! moving on.',bad
+'who gave me - is one cannot understand the question if you find yourself one of them please leave my question now!',bad
+'please cut out your fucking fingers!',bad
+'then fuck you guys!',bad
+'that\'s how you get by on this site. yes i do. if you want to post questions your way then go to yahoo answers',bad
+'rtfm key value',bad
+'too lazy to read a manual better write a so question.',bad
+'you have obviously get very confused. start again and this time check in with the manual every now and again.',bad
+'you should find a way to inspire your boss to get you some training.',bad
+'thanks for the downvotes kids but i just want the answer is this safe not your unlikes.',bad
+'i am using the batch command with a file on linux from time to time. so trust me.. or stfw',bad
+'sorry but this is pohtaytoe pohtahtoe.',bad
+'wow people on here suck. why down vote without leaving a comment?',bad
+'oh come on dude you cant even do your coding part?its soo simple..',bad
+'who the hell are you to talk? an arabian terrorist? fuk off.',bad
+'were you looking for someone to code that up for you? or were you planning to share what you\'ve tried and how that failed?',bad
+'google don\'t have the answer if it does i wouldn\'t ask here and i didn\'t ask for your help so zip it man.',bad
+'such a community.',bad
+'punch of noobs --',bad
+'hooly shit brainfreeze thanks haha',bad
+'if you didnt wanted to answer why fucking bother? this is a comment and not an answer. stop wasting people\'s time cunt.',bad
+'it is a dumb pointless question and voting to close it as such.',bad
+'utter lazy rubbish',bad
+'why the downvote? i would be very good to know why. show your self you bast..rd! -',bad
+'that shit don\'t work devil',bad
+'can you answer the damn question?',bad
+'dude you are lame. forget it',bad
+'you all are fucking retards. this question has not fucking been answered. fuck you all.',bad
+'try reading the fucking prompt. i want a way to kill the task without killing the current program that is running it. if there\'s not a way say it.',bad
+'if u can\'t help don\'t interfare. get away from my post',bad
+'are you stubborn or just stupid?',bad
+'shut the fuck up!',bad
+'let\'s have extreme sex in front of your children',bad
+'i read i have an error. i am not going to tell you what it is. please fix my code.',bad
+'stop arguing and answer the friking question!',bad
+'if you had bothered to read the stack trace you would not have wasted your time typing the question.',bad
+'a keyboard and your brain.!?',bad
+'if you don\'t know just shut.',bad
+'are you thinking your smart??',bad
+'really you called yourself coder ??',bad
+'thanks for your extremely polite reply its like no one would have understood what you wanted to say if you had said it in some other way. moron.',bad
+'everybody here is a jerk. -ing is like trolling but nobody laughs.',bad
+'now its - because a horde of nasty people have decided that anybody they don\'t know is a monster.',bad
+'now its - you all are idiots',bad
+'wtf you talking about?',bad
+'and if u don\'t know how to read u would probably put weird answers !',bad
+'poor guy asks a question and you give him an unjustified -?? to offset some prick\'s ego.',bad
+'because the answer is simple your just to suborn to understand it.',bad
+'i am very much a beginner in . programming go back to reading the books - you have no reason to be posting here',bad
+'did you even try looking at the tutorial ?',bad
+'didn\'t know this website was full of elitist dicks.',bad
+'you show a really poor mind!',bad
+'funny how people dislike my question without giving a reason or an answer. i swear to god i hope those guys have cancer and die.',bad
+'of course it\'s not the end of the world. it\'s also not the end of the world if you pee on my rug but you\'re still a dick if you do.',bad
+'google gives you link that leads to this site though. stupid',bad
+'you should get some courses in an elementary school for adults',bad
+'you just rephrased my comment. stupid. i\'m looking for some solutions coz i\'m new to android . so if you don\'t have some suggestionssolutions shut your old mouth.',bad
+'if you\'ve only been debugging for five or ten minutes then you definitely haven\'t worked long enough on this problem before asking for help.',bad
+'then get your grubby mits off our source code ta.',bad
+'in the same was as people can conclude you are an offensive homophobic prick.',bad
+'well it\'s a log. before his changes it fucking printed nul. after i appled his changes it printed what i wanted',bad
+'apparently it is not the documentation but your reading skills. read carefully!',bad
+'i guess that\'s douchebag for as far as i know that doesn\'t exist.',bad
+'yes but without everything else like method and action and inputs putting it in form tags will do fuck all',bad
+'is less than you idiots',bad
+'yes i am but thats gay',bad
+'thanks for the sarcastic comment neck beard. may all your friends think your the coolest person ever.',bad
+'you\'re kldding right? you\'re writing a computer program that relies on predicting the future? i have a bridge for sale .',bad
+'have you heard of google?',bad
+'fuck you you bastard hippo-crate answer it or other wise shut your fucking mouth ! you racist',bad
+'go fuck ur self with the k i don\'t even bother about them',bad
+'fuck you all. tell me the release date',bad
+'lol are there any computing scientists on this website? qa? what a joke',bad
+'i don\'t balm it because you have a very small mind your jealous or something you could eat the k at lunch time for free. am paying cheers',bad
+'dhur bal chera giye',bad
+'learn more java skills',bad
+'no. spend some time thinking why people smarter than you marked the question as a duplicate instead of complaining.',bad
+'if you want to correct me at least read what you\'re doing and i might be able to take you seriously.',bad
+'why? your answer is clearly wrong. i don\'t think you are fit to answer questions if you do not understand even the basics of probability. go back to basics my friend.',bad
+'is this question a part of your assignmenthomework. learn about joins',bad
+'are you from iran ?! that\'s totaly not a good idea because in some cases i prefer to use the value refigh',bad
+'just answer the question. if you don\'t understand it leave it. somebody else will. i saw a lots of over-exited around stack overflow.',bad
+'fuck all who me down vote!',bad
+'a fuck you man!',bad
+'if you have mind then answer itdon\'t read my english. whatever you give or not .you proved you are moron.',bad
+'very clever to delete your comment which prompted my reaction calling my code dreadful. good luck being suddenly moralistic i think it\'s going to bring you very far.',bad
+'haha you\'re a joke. keep showing the whole world that you can\'t communicate respectfully. let\'s hope this question gets lots of views - you might even become famous.',bad
+'if u can\'t help then what you are doing here?',bad
+'not even remotely similar go troll somewhere else dumbass. if you don\'t want to be called an idiot then learn to read and not act like an idiot. try again.',bad
+'your a bunch of cowards',bad
+'loved your comment .. tried your nonsense suggestion.',bad
+'is google broken today? why can\'t you google what a form tag does?',bad
+'anonymous coward downvoter care to explain?',bad
+'ahh fuck ie.',bad
+'why\'d you even take the time out of your busy schedule to write the comment.',bad
+'go fuck yourself. no life virgin',bad
+'you saying putty is not an ide is irrelevant go troll somewhere else. the warning is fixed now. you mad bro?',bad
+'this is a pretty stupid thing to do. making it shorter will actually reduce its readability as seen in the answer below.',bad
+'this op is bad thusfor we downvote and flag it. please provide what you have tried maybe some html css.',bad
+'i did it by myself now. it tooks me min. you bunch of fucking idiots. even don\'t know how to develop simple code.go home',bad
+'u sound like anus',bad
+'who cares about the research effort if it was a direct question ? fuckin retarded community',bad
+'if you haven\'t understood what string is after a couple of months i seriously would suggest you look into a different field.',bad
+'please refer changing my major to arts',bad
+'if you write your code in c in similar way so i have bad news for you',bad
+'read some books and do not troll for information!',bad
+'i swear it\'s like people just don\'t even try any more.',bad
+'yes a monkey would find this terribly complex.',bad
+'you can choose today to start anew and not rely on others to perform the most simple tasks for you. consider it a small step toward manhood.',bad
+'how much .shut the fuck off',bad
+'but not working i tried. i dont knw why people are so stupid to mark my question as duplicate. i have writen that i seen many posts but didnt get the answer',bad
+'it\'s hiding so it\'s still open. i did not say he has to use the hide thing.. it was a suggestion. you can give a solution instead of bitching at my solution.',bad
+'i\'d leave you to complete this quote by yourself.empty barrels make the .hopefully you know this one.',bad
+'only an idiot would expect this to compile',bad
+'this user should be banned from so',bad
+'go fuck yourself',bad
+'more like year old virgin',bad
+'your banter is about as shit as your sex life',bad
+'your banter is as bad as your sex life',bad
+'get back to your tool porn you ugly virgin',bad
+'ok. that\'s nice. good luck with that. did you have a programming question? this site is for questions not a place to dump your to-do list.',bad
+'calm down champion.i am a new in this area and have a lot of question.when read question in this form write my problem.you don\'t need being rude!',bad
+'to whoever down voted my question it\'d be nice if you left some sort of comment explaining why you down voted my question so i don\'t think that you\'re just being a dick.',bad
+'go home man you\'re drunk',bad
+'why are people downvoting my question.',bad
+'if you have a problem then gtfo scrubs thats why forums exists you dumbfucks --',bad
+'you\'re right it didn\'t go well due to that idiot who turned it into a chat about so rules. i\'m deleting it.',bad
+'doctor my stomache hurts. sorry we are no clairvoyants. you don\'t even give details.',bad
+'i just wanted an answer to my question not a sermon . who are you anyway the question polizia?',bad
+'and ps i dont give flying fk about downvotes d',bad
+'guess who is the stupid one.',bad
+'bro you have something to add here add it if not fuck off it\'s that simple and thanks',bad
+'so what was that hard reading the compiler error message?',bad
+'yay for old frts getting back into coding!',bad
+'if you don\'t know the answer to this just don\'t answer at all. you\'re not helping at all',bad
+'dude get a bloody life!',bad
+'actually i have been trying for two hours know and thanks for being a dckhead',bad
+'fuck off man i asked a serious question',bad
+'this has been asked a million times to get random-no-repeats you just shuffle.',bad
+'having these problems with azure in fucking and it doesn\'t help',bad
+'use your brain and read or ask your instructor.',bad
+'there is a way but it is almost impossible to find it because python has no documentation and the web has no search engines.',bad
+'either normal form post page refresh or form post with ajax. no other possibility',bad
+'my eyes hurt on seeing this code',bad
+'i can read it maybe you should get your eyes tested',bad
+'this is really an faked up community',bad
+'your code invokes undefined behaviour at multiple levels. it is plain awful and useless. use inline-assembler.',bad
+'stupidity at its best',bad
+'maybe the problem is that pipe you\'re smoking in the facebook cover photo you just posted. if you lay off the weed you might be able to concentrate better.',bad
+'keep being a total dick. you still have to look at yourself in the face every day.',bad
+'you need to properly implement one of those algorithms. if you dont know that then you are going back to school!!',bad
+'sorry but this answer is completely out of sync with the question i.e it\'s a load of rubbish -',bad
+cunt,bad
+'also whoever up voted this should have their voting rights suspended.',bad
+'let\'s not. i\'m not interested.',bad
+'v me anytime any place',bad
+'stackoverflow is not here to do your code writing.',bad
+'well gee i would think exact output and source was detailed enough i guess im not up to your standards should i post memory dumps too? that detailed enough for you?',bad
+'how can you help others being dumb',bad
+'would the retarded monkey that downvoted this working answer please explain why?',bad
+'please fuck off',bad
+'go fuck yourself idiot',bad
+'you fucking morron!',bad
+'you\'ve been here long enough to know you have to show effort.',bad
+'or something the kids theses day seem incapable of actual thought',bad
+'c\'mon now really? or is this some kind of code golf?',bad
+'i think it is not ur business. i did not want the whole solution. i wanted the way to do it.',bad
+'what of load of shite!',bad
+'four star programming wow!',bad
+'dude its a psuedocode not supposed to work unlike just talking in gibberish',bad
+'four star programming wow! this must be really good code!',bad
+'sigh read a book on it dude it\'s like something you learn in comp sci .',bad
+'this whole qa is embarrassing and sad.',bad
+'why do you still have the bizarre array-whatever thing there bra ? you realise that\'s going to sit around on the net for like years o',bad
+'then you need to say how or just be cranky like you\'re right now.',bad
+'don\'t bump old crappy questions unless your intent is to actually improve them adding backstory or complaining about a downvote is not improving your question.',bad
+'don\'t nag me please. that\'s just annoying. i\'m not your servant. i don\'t owe you anything. now i don\'t feel like helping you.',bad
+'i want my post deleted indian black ass idiot',bad
+'delete the fucking post',bad
+'dont fucking review my post with - idiotfucker',bad
+'and list refers to reading a list in the resultset. i don\'t wipe the ass of the programmer.',bad
+'go away!',bad
+'sorry didn\'t know about your stupid website roles',bad
+'please use the mass in your head!',bad
+'utter rubbish.',bad
+'i fixed it so your simple mind can see through the mud.',bad
+'so you are asking others to write the code for you? what did you try so far?',bad
+'nice did you scribbled your gfex gf name?',bad
+'fucking missprint ! thanks dude',bad
+'terrible answer and terrible choice of date as an example!',bad
+'i just took out the upvote given to you as there is an unfair downvote on my post.',bad
+'you are a wanker fuck off',bad
+'you have databases and you don\'t know much about dba work. poor you.',bad
+'wtf? op edited the question with comment wordpress added as tags explained the error. where is the explaning?',bad
+'poor you indeed. transfer in excel? when there are real etl tools out there?',bad
+'isnt easier as write an question just google for bash arrary tutorial?',bad
+'i don\'t know because probably he is god or devil or angel or some spooky scientist who can see the future edit.',bad
+'very fucking user\'s on this site never read the question always try to down vote new comer even they leave this palate form.',bad
+'yes you can do it. but you have to make a good question and right format.',bad
+'rod kinda kindergarden issue',bad
+'switch your major to the humanities. programming doesn\'t seem to suit you.',bad
+'need? no want against their terms your a bottom feeder go back to the hole you came from.',bad
+'i do hope you are doing this as a infant school project and not for a company that is actually going to offer loans.',bad
+'your a f\'in bitch',bad
+'my problem is now soloved .funke all of you no one help me this is fucking websit',bad
+'it is for you. stop to act as child.',bad
+'from your general behavior not particularly this case.',bad
+'why you chatting shit',bad
+'i do not understand what did you expect?! or i did not need to answer at all that you click down vote button!',bad
+'serious minus ? so you know that its not good question?so tell me the damned answer then geniouses!',bad
+'you suck dude..',bad
+'are you high?',bad
+'great title - will really help others.',bad
+'what part of google is your friend don\'t you understand?',bad
+'oh please. try harder. and what part of google is your friend don\'t you understand?',bad
+'and naming it like this instead of using the proper api to decide on the folder is smart because of?',bad
+'because you sometimes need a loop in a loop. what is your problem? maybe you learn programming from a book not by looking at code?',bad
+'what good are tutorials if you don\'t make the effort?',bad
+'oh and also please format your code it\'s hurting my brain.',bad
+'op didnt say that. take off you downvote please',bad
+'this is fucking shit awesome to know that you know such important bullshits',bad
+'backand is a horrible framework. do not waste your precious time on backand.',bad
+'so one clarifies things how? microsoft telepathy update? moron.',bad
+'how the hell would that work?',bad
+'wishing it away got it big man',bad
+'can i say a bad word because holy fuck you solved my problem wow like thank you so much! i was so close to giving up! it worked. thank you!',bad
+'anyone with answers as this would have pressing reasons not to reveal their real name .',bad
+'have you tried it yourself yet? if so have you encountered a problem accomplishing your goal? or do you think so is a do-your-homework-for-free site?',bad
+'who is the coward who downvoted my question without revealing himself?',bad
+'thanks will figure it out f u',bad
+'i have showed what i have done now tell me and you r stay in your limits',bad
+'please fast reply so i can complete my work',bad
+'you have a problem counting to three.',bad
+'someone with no idea how to do this might not be suitable to write this app.',bad
+'the question on my mind is can you help yourself? stop wasting my time.',bad
+'how would you be able to answer your own question if you saw it tomorrow after a heavy night of drinking? when you can answer that get back to us.',bad
+'this website is filled with a bunch of aholes who are only great at critiquing instead of helping.',bad
+'every day the same question',bad
+'you can go to hell dam ass i am trying to learn not make money of a stupid question why would you think i want to take credit for this code?',bad
+'how the hell do you know if i put effort or not. idiot',bad
+'it must be a joke. now it\'s even worse.',bad
+'hey smarties. i have java in the path. if you never encountered this error then you ain\'t helping me.',bad
+'spare me your feeble attempts to think. you\'re on your own on this one. ps - the possessive is its. your english is as poor as your math.',bad
+'all you asshol got me to loose points. go suck some cocks!',bad
+'utter rubbish.',bad
+'go go go downvoting',bad
+'maybe you should visit a doctor - because we cannot see into your head',bad
+'you don\'t seem to have any idea about anything. why would you think you can create something like this?',bad
+'vertical alignment ! similar issue. rest was css basics',bad
+'i get that your answer is to fuck with the client\'s website dom which is a bad idea.',bad
