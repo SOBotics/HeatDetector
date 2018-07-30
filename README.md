@@ -13,7 +13,7 @@ To usage the api you need to request an api key. The api has a very "crude" rate
 
 **Request**
 
-   {
+    {
      "domain": "stackoverflow", //domain for regex
      "minScore": "4", //if classifed score is below it will not return result on contents entry  
      "contents": [
@@ -27,11 +27,11 @@ To usage the api you need to request an api key. The api has a very "crude" rate
             "href": "https://stackoverflow.com/questions/51588616/when-click-button-to-open-another-activity-my-app-crashing-sometimes#comment90145474_51588616" //link to comment only used in web interface, not compulsory
             }
         ]
-    }
+     }
     
 **Response**
 
-   {
+    {
      "domain": "stackoverflow",
      "result": [
         {
@@ -56,7 +56,7 @@ To usage the api you need to request an api key. The api has a very "crude" rate
         }
      ],
      "backOff": 0
-   }
+    }
 
 
 
