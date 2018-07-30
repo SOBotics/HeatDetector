@@ -6,6 +6,7 @@
 	<name>HeatDetector</name>
 	<description>Api for classifiying comments</description>
 	<artifactId>heatdetector</artifactId>
+	<packaging>war</packaging>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
