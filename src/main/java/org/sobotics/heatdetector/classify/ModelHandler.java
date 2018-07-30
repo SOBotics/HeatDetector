@@ -1,6 +1,5 @@
 package org.sobotics.heatdetector.classify;
 
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.util.ArrayList;
@@ -11,6 +10,8 @@ import org.sobotics.heatdetector.rest.classify.HeatClassifier;
 
 import opennlp.tools.doccat.DoccatModel;
 import opennlp.tools.doccat.DocumentCategorizerME;
+import opennlp.tools.tokenize.Tokenizer;
+import opennlp.tools.tokenize.WhitespaceTokenizer;
 import weka.classifiers.Classifier;
 import weka.core.Attribute;
 import weka.core.DenseInstance;
@@ -19,63 +20,71 @@ import weka.core.SerializationHelper;
 import weka.core.converters.ConverterUtils.DataSource;
 
 public class ModelHandler {
-	
+
 	private static final Logger logger = LoggerFactory.getLogger(HeatClassifier.class);
 	private static ModelHandler instance;
-	
+
 	private DocumentCategorizerME openNLPClassifier;
 	private Classifier wekaNBClassifier;
 	private Instances wekaARFF;
+	private String modelFolder;
 
-	
-	private ModelHandler(){
+	private ModelHandler(String modelFolder) {
+		this.modelFolder = modelFolder;
 		try {
 			initModels();
 		} catch (Exception e) {
-			logger.error("initModels",e);
+			logger.error("initModels", e);
 		}
 	}
 
-	public static ModelHandler getInstance(){
-		if (instance==null){
-			instance = new ModelHandler();
+	public static void initInstance(String modelFolder) {
+		if (instance != null) {
+			throw new RuntimeException("The instance has already been instance");
+		}
+		instance = new ModelHandler(modelFolder);
+	}
+
+	public static ModelHandler getInstance() {
+		if (instance == null) {
+			throw new NullPointerException("The instance has not been instance correctly, see initInstance");
 		}
 		return instance;
 	}
 
-
-	
 	private void initModels() throws Exception {
-
 
 		// Open NLP classifier
 		long timer = System.currentTimeMillis();
-		
-		DoccatModel m = new DoccatModel(new File("model/open_comments.model"));
+
+		DoccatModel m = new DoccatModel(new File(modelFolder + "/open_comments.model"));
 		openNLPClassifier = new DocumentCategorizerME(m);
-		
+
 		if (logger.isDebugEnabled()) {
 			logger.debug("initModels() - OpenNLP Time to load: " + (System.currentTimeMillis() - timer));
 		}
 
 		timer = System.currentTimeMillis();
-		
+
 		// Weka NaiveBayes classifier
-		wekaNBClassifier = (Classifier) SerializationHelper.read(new FileInputStream("model/nb_comments.model"));
+		wekaNBClassifier = (Classifier) SerializationHelper.read(new FileInputStream(modelFolder + "/nb_comments.model"));
 
 		if (logger.isDebugEnabled()) {
 			logger.debug("initModels() - Weka Time to load: " + (System.currentTimeMillis() - timer));
 		}
-		
-		// This needs to be removed, only used to copy the structure when classifing
-		wekaARFF = getInstancesFromARFF("model/comments.arff");
+
+		// This needs to be removed, only used to copy the structure when
+		// classifing
+		wekaARFF = getInstancesFromARFF(modelFolder + "/comments.arff");
 		wekaARFF.setClassIndex(wekaARFF.numAttributes() - 1);
 
 	}
-	
+
 	/**
 	 * Classify with weka
-	 * @param classifyText, needs to be pre processed
+	 * 
+	 * @param classifyText,
+	 *            needs to be pre processed
 	 * @return array length 2 [0]=good, [1]=bad
 	 * @throws Exception
 	 */
@@ -83,18 +92,21 @@ public class ModelHandler {
 		Instances ins = createArff(classifyText);
 		return wekaNBClassifier.distributionForInstance(ins.get(0));
 	}
-	
+
 	/**
 	 * Classify with open nlp
-	 * @param classifyText, needs to be pre processed
+	 * 
+	 * @param classifyText,
+	 *            needs to be pre processed
 	 * @return array length 2 [0]=good, [1]=bad
 	 * @throws Exception
 	 */
 	public double[] classifyMessageOpenNLP(String classifyText) {
-		return openNLPClassifier.categorize(new String[]{classifyText});
+		Tokenizer tokenizer = WhitespaceTokenizer.INSTANCE;
+		String[] tokens = tokenizer.tokenize(classifyText);
+		return openNLPClassifier.categorize(tokens);
 	}
-	
-	
+
 	/**
 	 * Get Instances from ARFF file
 	 * 
@@ -116,7 +128,6 @@ public class ModelHandler {
 		return instances;
 	}
 
-	
 	private Instances createArff(String content) {
 
 		ArrayList<Attribute> atts = new ArrayList<>();
@@ -140,6 +151,7 @@ public class ModelHandler {
 
 		return data;
 	}
+
 
 
 }

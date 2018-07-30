@@ -4,9 +4,25 @@
 	<groupId>org.sobotics</groupId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>HeatDetector</name>
-	<description>Api for classifiying comments</description>
+	<description>Api for classifiying content</description>
 	<artifactId>heatdetector</artifactId>
 	<packaging>war</packaging>
+	<profiles>
+        <profile>
+            <id>dev</id>
+            <properties>
+                <domainFolder>C:\\Users\\pette\\Documents\\GitHub\\HeatDetector\\domain</domainFolder>
+                <modelFolder>C:\\Users\\pette\\Documents\\GitHub\\HeatDetector\\model</modelFolder>
+            </properties>
+        </profile>
+        <profile>
+            <id>prod</id>
+            <properties>
+                <domainFolder>/home/ec2-user/heatdetector/domain</domainFolder>
+                <modelFolder>/home/ec2-user/heatdetector/model</modelFolder>
+            </properties>
+        </profile>
+    </profiles>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>

@@ -11,12 +11,15 @@ import org.springframework.stereotype.Component;
 public class ApplicationSetup {
 	
 
-	@Value("${app.domain.folder}")
+	@Value("${app.folder.domain}")
 	private String domainFolder;
 
+	@Value("${app.folder.model}")
+	private String modelFolder;
+	
 	@PostConstruct
 	public void init() {
 		DomainHandler.initInstance(domainFolder);
-		ModelHandler.getInstance();
+		ModelHandler.initInstance(modelFolder);
 	}
 }
