@@ -1,7 +1,6 @@
 package org.sobotics.heatdetector.domain;
 
 import java.io.File;
-import java.io.FileFilter;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -48,23 +47,13 @@ public class DomainHandler {
 		if (!df.exists()||!df.isDirectory()){
 			throw new RuntimeException("The domain folder: " + domainFolder + " does not exists");
 		}
-		File[] dsList = df.listFiles(new FileFilter() {
-			@Override
-			public boolean accept(File f) {
-				return f.isDirectory();
-			}
-		});
+		File[] dsList = df.listFiles(f -> f.isDirectory());
 		
 		for (File d : dsList) {
 			domains.put(d.getName(),new Domain(d));
 		}
-
-			
-			
+		
 	}
-	
-	
-
 
 	/**
 	 * Check high, medium and low bad (black list) patterns in this order, if hit return value

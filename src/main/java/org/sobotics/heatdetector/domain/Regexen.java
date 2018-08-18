@@ -37,9 +37,9 @@ public class Regexen {
 	public Regexen(File folder, int type) {
 		this.type = type;
 		try {
-			this.file = new TextFile(new File(folder.getAbsolutePath() + "/" + getRegexFileName(type)));
+			this.file = new TextFile(new File(folder.getAbsolutePath(), getRegexFileName(type)));
 		} catch (IOException e) {
-			logger.error("Regexen(File, int)", e.getMessage());
+			logger.error("Regexen(File, int) {}", e.getMessage());
 		}
 		compilePatterns();
 	}
