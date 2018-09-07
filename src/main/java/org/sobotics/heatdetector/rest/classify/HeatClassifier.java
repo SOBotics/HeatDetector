@@ -36,7 +36,7 @@ public class HeatClassifier {
 
 		for (Content c : request.getContents()) {
 			Result r = classify(request.getDomain(),c);
-			if (r != null && r.getScore() >= request.getMinScore()) {
+			if (r != null && (r.getScore() >= request.getMinScore()||r.getTrack()!=null)) {
 				resultList.add(r);
 			}
 		}
@@ -115,7 +115,7 @@ public class HeatClassifier {
 			score-=6;
 		}
 		
-		return Math.min(score, 10);
+		return Math.max(0, Math.min(score, 10));
 	}
 
 	
