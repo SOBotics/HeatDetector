@@ -14,6 +14,8 @@ import java.util.regex.PatternSyntaxException;
 @RestController
 public class DomainController {
 	
+	private static final String IS_OUT_OF_BOUNDS = " is out of bounds!";
+	
 	@GetMapping("heatdetector/api/domains/**")
 	public List<String> getDomains(final HttpServletRequest request) {
 		//TODO: Show only domains that users have access to
@@ -34,7 +36,7 @@ public class DomainController {
 		TextFile file = DomainHandler.getInstance().getDomain(domain).getRegexen(type).getFile();
 		if (index != null) {
 			if (index > file.getLines().size() || index < 1) {
-				return new ResponseEntity<>(index + " is out of bounds!", HttpStatus.BAD_REQUEST);
+				return new ResponseEntity<>(index + IS_OUT_OF_BOUNDS, HttpStatus.BAD_REQUEST);
 			}
 			file.addLine(index, regex);
 		}
@@ -52,7 +54,7 @@ public class DomainController {
 		
 		TextFile file = DomainHandler.getInstance().getDomain(domain).getRegexen(type).getFile();
 		if (index > file.getLines().size() || index < 1) {
-			return new ResponseEntity<>(index + " is out of bounds!", HttpStatus.BAD_REQUEST);
+			return new ResponseEntity<>(index + IS_OUT_OF_BOUNDS, HttpStatus.BAD_REQUEST);
 		}
 		
 		file.editLine(index, regex);
@@ -64,7 +66,7 @@ public class DomainController {
 	public ResponseEntity<String> deleteRegex(final HttpServletRequest request, @PathVariable("domain") String domain, @RequestParam(value = "type", required = true) int type, @RequestParam(value = "index", required = true) int index) {
 		TextFile file = DomainHandler.getInstance().getDomain(domain).getRegexen(type).getFile();
 		if (index > file.getLines().size() || index < 1) {
-			return new ResponseEntity<>(index + " is out of bounds!", HttpStatus.BAD_REQUEST);
+			return new ResponseEntity<>(index + IS_OUT_OF_BOUNDS, HttpStatus.BAD_REQUEST);
 		}
 		
 		
