@@ -3,9 +3,7 @@ package org.sobotics.heatdetector.rest.config;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.sobotics.heatdetector.rest.security.JwtAuthenticationEntryPoint;
-import org.sobotics.heatdetector.rest.security.JwtAuthenticationTokenFilter;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
@@ -53,10 +51,10 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 //    	return new BCryptPasswordEncoder(11);
 //    }
 
-    @Bean
-    public JwtAuthenticationTokenFilter authenticationTokenFilterBean() {
-        return new JwtAuthenticationTokenFilter();
-    }
+//    @Bean
+//    public JwtAuthenticationTokenFilter authenticationTokenFilterBean() {
+//        return new JwtAuthenticationTokenFilter();
+//    }
 
     @Override
     protected void configure(HttpSecurity httpSecurity) throws Exception {

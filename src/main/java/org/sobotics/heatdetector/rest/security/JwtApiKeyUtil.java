@@ -7,6 +7,9 @@ import java.util.Map;
 
 import javax.servlet.http.HttpServletRequest;
 
+import io.jsonwebtoken.SigningKeyResolver;
+import org.slf4j.LoggerFactory;
+import org.sobotics.heatdetector.rest.config.WebSecurityConfig;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
@@ -25,6 +28,9 @@ public class JwtApiKeyUtil implements Serializable {
 	public static final String CLAIM_KEY_APPLICATION = "app";
 	public static final String CLAIM_KEY_USER_DOMAIN = "domain";
 	public static final String CLAIM_KEY_CREATED = "created";
+	public static final String CLAIM_KEY_MAX_COMMENTS = "max_comments";
+	public static final String CLAIM_KEY_PERMISSION = "perm";
+	public static final String PARAMETER_KEY_API_KEY = "api_key";
 
 	@Value("${jwt.secret}")
 	private String secret;
@@ -35,11 +41,11 @@ public class JwtApiKeyUtil implements Serializable {
 	public String getToken(HttpServletRequest request) {
 		// Get from request
 		String authToken = request.getHeader(this.tokenHeader);
-
+		
 		if (authToken != null && authToken.startsWith("Bearer ")) {
 			authToken = authToken.substring(7);
 		} else {
-			authToken = null;
+			authToken = request.getParameter(PARAMETER_KEY_API_KEY); //returns null if it does not exist
 		}
 		return authToken;
 	}
@@ -76,10 +82,17 @@ public class JwtApiKeyUtil implements Serializable {
 		return generateToken(claims);
 	}
 
+	public String generateToken(String domain, int permission, int maxComments) {
+		Map<String, Object> claims = new HashMap<>();
+		claims.put(CLAIM_KEY_USER_DOMAIN, domain);
+		claims.put(CLAIM_KEY_PERMISSION, permission);
+		claims.put(CLAIM_KEY_MAX_COMMENTS, maxComments);
+		return generateToken(claims);
+	}
+	
 	public String generateToken(Map<String, Object> claims) {
 		return Jwts.builder().setClaims(claims).signWith(SignatureAlgorithm.HS512, getSecret()).compact();
 	}
-
 
 	public Boolean validateToken(String token, String domain) {
 		try {
@@ -93,5 +106,15 @@ public class JwtApiKeyUtil implements Serializable {
 	public String getSecret() {
 		return this.secret;
 	}
-
+	
+	public Integer getMaxCommentsFromToken(String token) {
+		final Claims claims = getClaimsFromToken(token);
+		return (Integer) claims.get(CLAIM_KEY_MAX_COMMENTS);
+	}
+	
+	public Integer getPermissionFromToken(String token) {
+		final Claims claims = getClaimsFromToken(token);
+		return (Integer) claims.get(CLAIM_KEY_PERMISSION);
+	}
+	
 }
