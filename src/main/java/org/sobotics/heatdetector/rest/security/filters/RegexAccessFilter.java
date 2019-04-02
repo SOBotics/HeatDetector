@@ -33,6 +33,12 @@ public class RegexAccessFilter extends OncePerRequestFilter {
 	protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain chain) throws ServletException, IOException {
 		final String prefix = "/heatdetector/api/";
 		String uri = request.getRequestURI();
+
+		if (!uri.startsWith(prefix)) {
+			chain.doFilter(request, response);
+			return;
+		}
+
 		String relevant = uri.substring(prefix.length());
 		String primaryPath = relevant.split("/")[0];
 		
