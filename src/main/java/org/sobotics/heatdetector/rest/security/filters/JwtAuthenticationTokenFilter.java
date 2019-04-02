@@ -1,5 +1,6 @@
 package org.sobotics.heatdetector.rest.security.filters;
 
+import io.jsonwebtoken.JwtException;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.sobotics.heatdetector.rest.security.JwtApiKeyUtil;
@@ -34,7 +35,14 @@ public class JwtAuthenticationTokenFilter extends OncePerRequestFilter {
 			response.sendError(401, "No API key found");
 			return;
 		}
-		
+
+		try {
+			jwtUtil.getClaimsFromToken(token);
+		} catch (JwtException jwte) {
+			response.sendError(401, "JWT invalid!");
+			return;
+		}
+
 		chain.doFilter(request, response);
 	}
 	
