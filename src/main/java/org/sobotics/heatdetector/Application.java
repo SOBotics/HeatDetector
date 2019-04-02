@@ -2,7 +2,6 @@ package org.sobotics.heatdetector;
 
 import org.sobotics.heatdetector.rest.config.WebSecurityConfig;
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.freemarker.FreeMarkerAutoConfiguration;
 import org.springframework.boot.builder.SpringApplicationBuilder;
@@ -10,9 +9,8 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
 import org.springframework.context.annotation.Import;
 
 
-@SpringBootApplication
+@SpringBootApplication(exclude = { FreeMarkerAutoConfiguration.class })
 @Import({ WebSecurityConfig.class})
-@EnableAutoConfiguration(exclude = { FreeMarkerAutoConfiguration.class })
 public class Application extends SpringBootServletInitializer{
 	
 	
