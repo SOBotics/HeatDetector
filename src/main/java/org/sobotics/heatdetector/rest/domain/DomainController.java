@@ -17,18 +17,18 @@ public class DomainController {
 	private static final String IS_OUT_OF_BOUNDS = " is out of bounds!";
 	
 	@GetMapping("heatdetector/api/domains/**")
-	public List<String> getDomains(final HttpServletRequest request) {
+	public List<String> getDomains() {
 		//TODO: Show only domains that users have access to
 		return DomainHandler.getInstance().getDomainNames();
 	}
 	
 	@GetMapping("heatdetector/api/regex/{domain}/**")
-	public TextFile getRegexen(final HttpServletRequest request, @PathVariable("domain") String domain, @RequestParam(value = "type", required = true) int type) {
+	public TextFile getRegexen(@PathVariable("domain") String domain, @RequestParam(value = "type") int type) {
 		return DomainHandler.getInstance().getDomain(domain).getRegexen(type).getFile();
 	}
 	
 	@PostMapping("heatdetector/api/regex/{domain}/**")
-	public ResponseEntity<String> addRegex(final HttpServletRequest request, @PathVariable("domain") String domain, @RequestParam(value = "type", required = true) int type, @RequestParam(value = "regex", required = true) String regex, @RequestParam(value = "index", required = false) Integer index) {
+	public ResponseEntity<String> addRegex(@PathVariable("domain") String domain, @RequestParam(value = "type") int type, @RequestParam(value = "regex") String regex, @RequestParam(value = "index", required = false) Integer index) {
 		if (isNotValidRegex(regex)) {
 			return new ResponseEntity<>("\"" +regex + "\" is not a valid regex!", HttpStatus.BAD_REQUEST);
 		}
@@ -47,7 +47,7 @@ public class DomainController {
 	}
 	
 	@PutMapping("heatdetector/api/regex/{domain}/**")
-	public ResponseEntity<String> editRegex(final HttpServletRequest request, @PathVariable("domain") String domain, @RequestParam(value = "type", required = true) int type, @RequestParam(value = "regex", required = true) String regex, @RequestParam(value = "index", required = true) int index) {
+	public ResponseEntity<String> editRegex(@PathVariable("domain") String domain, @RequestParam(value = "type") int type, @RequestParam(value = "regex") String regex, @RequestParam(value = "index") int index) {
 		if (isNotValidRegex(regex)) {
 			return new ResponseEntity<>("\"" + regex + "\" is not a valid regex!", HttpStatus.BAD_REQUEST);
 		}
@@ -63,7 +63,7 @@ public class DomainController {
 	}
 	
 	@DeleteMapping("heatdetector/api/regex/{domain}/**")
-	public ResponseEntity<String> deleteRegex(final HttpServletRequest request, @PathVariable("domain") String domain, @RequestParam(value = "type", required = true) int type, @RequestParam(value = "index", required = true) int index) {
+	public ResponseEntity<String> deleteRegex(@PathVariable("domain") String domain, @RequestParam(value = "type") int type, @RequestParam(value = "index") int index) {
 		TextFile file = DomainHandler.getInstance().getDomain(domain).getRegexen(type).getFile();
 		if (index > file.getLines().size() || index < 1) {
 			return new ResponseEntity<>(index + IS_OUT_OF_BOUNDS, HttpStatus.BAD_REQUEST);
