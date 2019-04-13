@@ -13,6 +13,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
 
 /**
  * Controller that classifiy the content
@@ -32,20 +34,22 @@ public class ClassificationController {
 	}
 
 	@PostMapping("heatdetector/api/classify/**")
-	public ResponseEntity<Object> classify(final HttpServletRequest request, @RequestBody ClassifyRequest classifyRequest) throws RateLimitException {
+	public ResponseEntity<Object> classify(final HttpServletRequest request, @RequestBody ClassifyRequest classifyRequest, final HttpServletResponse servletResponse) throws RateLimitException, IOException {
 		String token = jwtUtil.getToken(request);
 		String allowedDomain = jwtUtil.getDomainFromToken(token);
 		int maxComments = jwtUtil.getMaxCommentsFromToken(token);
 		
 		if (!"all".equals(classifyRequest.getDomain()) && !allowedDomain.equals(classifyRequest.getDomain())) {
-			return ResponseEntity.status(HttpStatus.FORBIDDEN).body("Domain access denied!");
+			servletResponse.sendError(403, "Domain access denied!"); //Looks like it's doubled but is supposed to be exactly that.
+			return ResponseEntity.status(HttpStatus.FORBIDDEN).build();
 		}
 		
 		//Max comments check
 		if (maxComments < classifyRequest.getContents().size()) {
 //				402 - Payment required. Please upgrade your API key by paying 10$ to this bank account.
 //						You can have more than 2 comments per 30 seconds for only 9.99$ a month!!!
-			return ResponseEntity.status(HttpStatus.PAYLOAD_TOO_LARGE).body("Above comment limit! Limit: " + maxComments);
+			servletResponse.sendError(413, "Above comment limit! Limit: " + maxComments);
+			return ResponseEntity.status(HttpStatus.PAYLOAD_TOO_LARGE).build();
 		}
 		
 		
