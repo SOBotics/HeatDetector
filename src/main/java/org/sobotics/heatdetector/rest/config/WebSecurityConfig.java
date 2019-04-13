@@ -26,8 +26,11 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
 	private final Logger logger = LoggerFactory.getLogger(WebSecurityConfig.class);
 	
-    @Autowired
-    private JwtAuthenticationEntryPoint unauthorizedHandler;
+    private final JwtAuthenticationEntryPoint unauthorizedHandler;
+
+	public WebSecurityConfig(JwtAuthenticationEntryPoint unauthorizedHandler) {
+		this.unauthorizedHandler = unauthorizedHandler;
+	}
 
 //    @Autowired
 //    private UserDetailsService userDetailsService;

@@ -22,12 +22,15 @@ import javax.servlet.http.HttpServletRequest;
 @RestController
 public class ClassificationController {
 	
-	@Autowired
-	private ApiRateLimiter rateLimiter;
+	private final ApiRateLimiter rateLimiter;
 
-	@Autowired
-	private JwtApiKeyUtil jwtUtil;
-	
+	private final JwtApiKeyUtil jwtUtil;
+
+	public ClassificationController(ApiRateLimiter rateLimiter, JwtApiKeyUtil jwtUtil) {
+		this.rateLimiter = rateLimiter;
+		this.jwtUtil = jwtUtil;
+	}
+
 	@PostMapping("heatdetector/api/classify/**")
 	public ResponseEntity<Object> classify(final HttpServletRequest request, @RequestBody ClassifyRequest classifyRequest) throws RateLimitException {
 		String token = jwtUtil.getToken(request);
