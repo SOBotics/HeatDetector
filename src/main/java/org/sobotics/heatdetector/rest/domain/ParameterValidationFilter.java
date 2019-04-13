@@ -41,13 +41,15 @@ public class ParameterValidationFilter extends OncePerRequestFilter {
 				}
 			case "DELETE":
 				int type = Integer.parseInt(httpServletRequest.getParameter("type"));
-				int index = Integer.parseInt(httpServletRequest.getParameter("index"));
+				String indexParam = httpServletRequest.getParameter("index");
+				int index = indexParam == null ? -1 : Integer.parseInt(indexParam);
+
 				if (isMissingParameters(httpServletRequest)) {
 					//If there is anything missing, forward it in the filterchain to let Spring generate potential failure messages
 					filterChain.doFilter(httpServletRequest, httpServletResponse);
 					return;
 				}
-				if (isOutOfBounds(domain, type, index)) {
+				if (indexParam != null && isOutOfBounds(domain, type, index)) {
 					httpServletResponse.sendError(400, index + " is out of bounds!");
 					return;
 				}
