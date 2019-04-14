@@ -31,8 +31,7 @@ public class TextFile {
 	
 	private void readFile() throws IOException {
 		this.lines = new ArrayList<>();
-		BufferedReader br = new BufferedReader(new FileReader(this.file));
-		try {
+		try (BufferedReader br = new BufferedReader(new FileReader(this.file))) {
 			String line = br.readLine();
 			int i = 1;
 			while (line != null) {
@@ -42,8 +41,6 @@ public class TextFile {
 				}
 				line = br.readLine();
 			}
-		} finally {
-			br.close();
 		}
 	}
 	
