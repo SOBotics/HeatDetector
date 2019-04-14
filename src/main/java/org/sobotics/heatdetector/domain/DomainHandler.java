@@ -47,12 +47,15 @@ public class DomainHandler {
 		if (!df.exists()||!df.isDirectory()){
 			throw new RuntimeException("The domain folder: " + domainFolder + " does not exists");
 		}
-		File[] dsList = df.listFiles(f -> f.isDirectory());
-		
+		File[] dsList = df.listFiles(File::isDirectory);
+
+		if (dsList == null) {
+			throw new RuntimeException("Issue in reading domains: dsList is null");
+		}
+
 		for (File d : dsList) {
 			domains.put(d.getName(),new Domain(d));
 		}
-		
 	}
 
 	/**
@@ -127,7 +130,7 @@ public class DomainHandler {
 	 * Get a domain
 	 * @param domain, name of domain
 	 * @return <code>Domain</code> with it's regexen
-	 * @throws <code>NoSuchDomainExeception</code> if not present
+	 * @throws NoSuchDomainExeception if not present
 	 */
 	public Domain getDomain(String domain) {
 		Domain d = domains.get(domain);
