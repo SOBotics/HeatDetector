@@ -13,31 +13,43 @@ import org.sobotics.heatdetector.classify.model.Content;
 import org.sobotics.heatdetector.classify.model.Result;
 import org.sobotics.heatdetector.domain.DomainHandler;
 import org.sobotics.heatdetector.domain.Regexen;
+import org.sobotics.heatdetector.feed.FeedManager;
+import org.springframework.stereotype.Component;
 
+@Component
 public class HeatClassifier {
 	
 	private static final Logger LOGGER = LoggerFactory.getLogger(HeatClassifier.class);
 
+	private final FeedManager feedManager;
 	
-	public static final double HIGH_THRESHOLD = .999d;
-	public static final double MEDIUM_THRESHOLD = .995d;
-	public static final double LOW_THRESHOLD = .95d;
-	
-	
+	private static final double HIGH_THRESHOLD = .999d;
+	private static final double MEDIUM_THRESHOLD = .995d;
+	private static final double LOW_THRESHOLD = .95d;
+
+	public HeatClassifier(FeedManager feedManager) {
+		this.feedManager = feedManager;
+	}
+
 	public ClassifyResponse classify(ClassifyRequest request) {
 		if (request == null) {
 			return null;
 		}
 
-		ClassifyResponse response = new ClassifyResponse(request.getDomain());
+		String domain = request.getDomain();
+
+		ClassifyResponse response = new ClassifyResponse(domain);
 
 		List<Result> resultList = new ArrayList<>();
 		response.setResult(resultList);
 
 		for (Content c : request.getContents()) {
-			Result r = classify(request.getDomain(),c);
-			if (r != null && (r.getScore() >= request.getMinScore()||r.getTrack()!=null)) {
-				resultList.add(r);
+			Result r = classify(domain,c);
+			if (r != null) {
+				feedManager.addFeedItem(domain, c, r.getScore() >= 4);
+				if (r.getScore() >= request.getMinScore()||r.getTrack()!=null) {
+					resultList.add(r);
+				}
 			}
 		}
 

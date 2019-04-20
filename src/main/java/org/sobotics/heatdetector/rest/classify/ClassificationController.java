@@ -5,7 +5,6 @@ import org.sobotics.heatdetector.classify.model.ClassifyResponse;
 import org.sobotics.heatdetector.rest.security.ApiRateLimiter;
 import org.sobotics.heatdetector.rest.security.JwtApiKeyUtil;
 import org.sobotics.heatdetector.rest.security.RateLimitException;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -28,9 +27,12 @@ public class ClassificationController {
 
 	private final JwtApiKeyUtil jwtUtil;
 
-	public ClassificationController(ApiRateLimiter rateLimiter, JwtApiKeyUtil jwtUtil) {
+	private final HeatClassifier classifier;
+
+	public ClassificationController(ApiRateLimiter rateLimiter, JwtApiKeyUtil jwtUtil, HeatClassifier classifier) {
 		this.rateLimiter = rateLimiter;
 		this.jwtUtil = jwtUtil;
+		this.classifier = classifier;
 	}
 
 	@PostMapping("heatdetector/api/classify/**")
@@ -54,7 +56,7 @@ public class ClassificationController {
 		
 		
 		rateLimiter.checkLimit(request.getRemoteAddr());
-		ClassifyResponse response = new HeatClassifier().classify(classifyRequest);
+		ClassifyResponse response = classifier.classify(classifyRequest);
 		response.setBackOff(rateLimiter.getBackOff(request));
 		return ResponseEntity.ok(response);
 	}
