@@ -1,8 +1,11 @@
 package org.sobotics.heatdetector.domain;
 
 import java.io.File;
+import java.util.LinkedList;
+import java.util.Queue;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import org.sobotics.heatdetector.feed.FeedItem;
 
 /**
  * A <code>Domain</code> is keeping the regex files, hence different Domains can
@@ -15,6 +18,12 @@ public class Domain implements Comparable<Domain> {
 
 	@JsonIgnore
 	private File folder;
+
+	@JsonIgnore
+	private Queue<FeedItem> allFeed = new LinkedList<>();
+
+	@JsonIgnore
+	private Queue<FeedItem> badFeed = new LinkedList<>();
 
 	private Regexen low;
 	private Regexen medium;
@@ -38,23 +47,23 @@ public class Domain implements Comparable<Domain> {
 		return folder.getName();
 	}
 
-	public Regexen getLow() {
+	Regexen getLow() {
 		return low;
 	}
 
-	public Regexen getMedium() {
+	Regexen getMedium() {
 		return medium;
 	}
 
-	public Regexen getHigh() {
+	Regexen getHigh() {
 		return high;
 	}
 
-	public Regexen getTrack() {
+	Regexen getTrack() {
 		return track;
 	}
 
-	public Regexen getWhitelist() {
+	Regexen getWhitelist() {
 		return whitelist;
 	}
 
@@ -93,4 +102,11 @@ public class Domain implements Comparable<Domain> {
 		}
 	}
 
+	public Queue<FeedItem> getAllFeed() {
+		return allFeed;
+	}
+
+	public Queue<FeedItem> getBadFeed() {
+		return badFeed;
+	}
 }
